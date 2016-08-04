@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\xml\\selector_listview.xml",
+        "source": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\xml\\selector_listview.xml"
+    },
+    {
+        "merged": "E:\\android-studio_workspace\\LiuhePay\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\xml\\gridview_item_selector.xml",
+        "source": "E:\\android-studio_workspace\\LiuhePay\\LiuHePay\\src\\main\\res\\xml\\gridview_item_selector.xml"
+    },
+    {
+        "merged": "E:\\android-studio_workspace\\LiuhePay\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\xml\\listview_item_selector.xml",
+        "source": "E:\\android-studio_workspace\\LiuhePay\\LiuHePay\\src\\main\\res\\xml\\listview_item_selector.xml"
+    },
+    {
+        "merged": "E:\\android-studio_workspace\\LiuhePay\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\xml\\selector_listview.xml",
+        "source": "E:\\android-studio_workspace\\LiuhePay\\LiuHePay\\src\\main\\res\\xml\\selector_listview.xml"
+    },
+    {
+        "merged": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\xml\\gridview_item_selector.xml",
+        "source": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\xml\\gridview_item_selector.xml"
+    },
+    {
+        "merged": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\xml\\btn_blue_selector.xml",
+        "source": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\xml\\btn_blue_selector.xml"
+    },
+    {
+        "merged": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\xml\\listview_item_selector.xml",
+        "source": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\xml\\listview_item_selector.xml"
+    },
+    {
+        "merged": "E:\\android-studio_workspace\\LiuhePay\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\xml\\btn_blue_selector.xml",
+        "source": "E:\\android-studio_workspace\\LiuhePay\\LiuHePay\\src\\main\\res\\xml\\btn_blue_selector.xml"
+    }
+]

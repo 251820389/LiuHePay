@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="array_elec_cash_main_activity">
+        <item>快速支付</item>
+        <item>普通支付</item>
+        <item>卡片余额查询</item>
+        <item>卡片明细查询</item>
+        <item>电子现金退货</item>
+    </string-array>
+    <string-array name="array_manager_history_query_activity">
+        <item>查询交易明细</item>
+        <item>查询交易汇总</item>
+        <item>按凭证号查询</item>
+    </string-array>
+    <string-array name="array_manager_main_activity">
+        <item>签到</item>
+        <item>签退</item>
+        <item>交易查询</item>
+        <item>柜员</item>
+        <item>外线号码</item>
+        <item>结算</item>
+        <item>锁定终端</item>
+        <item>版本</item>
+    </string-array>
+    <string-array name="array_manager_sign_activity">
+        <item>POS签到</item>
+        <item>操作员签退</item>
+    </string-array>
+    <string-array name="array_operator_main_activity">
+        <item>微信扫码</item>
+        <item>微信刷卡</item>
+        <item>支付宝扫码</item>
+        <item>支付宝条码</item>
+        <item>消费</item>
+        <item>撤销</item>
+        <item>退货</item>
+        <item>预授权</item>
+        <item>打印</item>
+        <item>查余额</item>
+        <item>管理</item>
+        <item>其他</item>
+    </string-array>
+    <string-array name="array_operator_manager_activity">
+        <item>主管改密</item>
+        <item>增加</item>
+        <item>删除</item>
+        <item>查询</item>
+        <item>操作员改密</item>
+    </string-array>
+    <string-array name="array_others_main_activity">
+        <item>电子现金</item>
+        <item>指定账户圈存</item>
+    </string-array>
+    <string-array name="array_others_pay">
+        <item>微信扫码</item>
+        <item>微信刷卡</item>
+        <item>支付宝扫码</item>
+        <item>支付宝条码</item>
+    </string-array>
+    <string-array name="array_preauth_main_activity">
+        <item>预授权</item>
+        <item>预授权完成请求</item>
+        <item>预授权完成通知</item>
+        <item>预授权撤销</item>
+        <item>预授权完成撤销</item>
+    </string-array>
+    <string-array name="array_print_main_activity">
+        <item>重打最后一笔</item>
+        <item>重打任意一笔</item>
+        <item>打印交易明细</item>
+        <item>打印交易汇总</item>
+    </string-array>
+    <string-array name="array_system_clear_setting_activity">
+        <item>清冲正标志</item>
+        <item>清除交易流水</item>
+        <item>清脚本通知</item>
+        <item>清除黑名单</item>
+        <item>剩余存储空间</item>
+    </string-array>
+    <string-array name="array_system_communication_manager_activity">
+        <item>拨号</item>
+        <item>串口</item>
+        <item>GPRS</item>
+        <item>CDMA</item>
+        <item>以太网</item>
+        <item>WIFI</item>
+    </string-array>
+    <string-array name="array_system_download_activity">
+        <item>回响测试</item>
+        <item>参数下载</item>
+        <item>公钥下载</item>
+        <item>EMV参数下载</item>
+    </string-array>
+    <string-array name="array_system_key_manager_activity">
+        <item>修改管理员密码</item>
+        <item>修改安全密码</item>
+    </string-array>
+    <string-array name="array_system_manager_activity">
+        <item>商户参数设置</item>
+        <item>交易管理设置</item>
+        <item>系统参数设置</item>
+        <item>通讯参数设置</item>
+        <item>终端秘钥管理</item>
+        <item>密码管理</item>
+        <item>其他功能设置</item>
+    </string-array>
+    <string-array name="array_system_other_manager_activity">
+        <item>清除设置</item>
+        <item>签购单打印</item>
+        <item>下载功能</item>
+        <item>参数打印</item>
+        <item>未知发卡行代码</item>
+        <item>机具测试</item>
+        <item>状态设置</item>
+    </string-array>
+    <string-array name="array_system_test_manager_activity">
+        <item>打印机</item>
+        <item>显示器</item>
+        <item>读卡器</item>
+        <item>键盘</item>
+        <item>回响测试</item>
+    </string-array>
+    <string-array name="array_system_tmk_manager_activity">
+        <item>联机导入密钥</item>
+        <item>手工输入密钥</item>
+        <item>母POS导入密钥</item>
+        <item>设置DES算法</item>
+        <item>交易密钥索引号</item>
+    </string-array>
+    <string-array name="array_system_trans_manager_activity">
+        <item>交易开关控制</item>
+        <item>交易输密控制</item>
+        <item>交易刷卡控制</item>
+        <item>结算交易控制</item>
+        <item>离线交易控制</item>
+        <item>其他交易控制</item>
+        <item>电子签名控制</item>
+    </string-array>
+    <color name="bg_color">#EDEDED</color>
+    <color name="common_action_bar_splitter">#d2d2d2</color>
+    <color name="common_signin_btn_dark_text_default">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_dark_text_focused">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_pressed">@android:color/white</color>
+    <color name="common_signin_btn_default_background">#FFDD4B39</color>
+    <color name="common_signin_btn_light_text_default">#FF737373</color>
+    <color name="common_signin_btn_light_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_light_text_focused">#FF737373</color>
+    <color name="common_signin_btn_light_text_pressed">@android:color/white</color>
+    <color name="contents_text">#ff000000</color>
+    <color name="dialog_btn">#33B5E5</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="grgray">#686868</color>
+    <color name="gridview_item">#13a8ea</color>
+    <color name="header">#58567D</color>
+    <color name="help_button_view">#ffcccccc</color>
+    <color name="help_view">#ff404040</color>
+    <color name="listview_item">#E0E0E0</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_image_border">#ffffffff</color>
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c000ff00</color>
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="sbc_header_text">#ff808080</color>
+    <color name="sbc_header_view">#ffffffff</color>
+    <color name="sbc_layout_view">#ffffffff</color>
+    <color name="sbc_list_item">#fffff0e0</color>
+    <color name="sbc_page_number_text">#ff000000</color>
+    <color name="sbc_snippet_text">#ff4b4b4b</color>
+    <color name="share_text">#ff000000</color>
+    <color name="share_view">#ffffffff</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="status_view">#50000000</color>
+    <color name="text_color">#356ce9</color>
+    <color name="transparent">#00000000</color>
+    <color name="view_line">#bebebe</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="white">#ffffff</color>
+    <declare-styleable name="LoadingImageView"><attr format="enum" name="imageAspectRatioAdjust"><enum name="none" value="0"/><enum name="adjust_width" value="1"/><enum name="adjust_height" value="2"/></attr><attr format="float" name="imageAspectRatio"/><attr format="boolean" name="circleCrop"/></declare-styleable>
+    <declare-styleable name="PasswordInputView"><attr format="color" name="pivBorderColor"/><attr format="dimension" name="pivBorderWidth"/><attr format="dimension" name="pivBorderRadius"/><attr format="color" name="pivPasswordColor"/><attr format="dimension" name="pivPasswordWidth"/><attr format="dimension" name="pivPasswordRadius"/><attr format="integer" name="pivPasswordLength"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <item name="auto_focus" type="id"/>
+    <item name="decode" type="id"/>
+    <item name="decode_failed" type="id"/>
+    <item name="decode_succeeded" type="id"/>
+    <item name="encode_failed" type="id"/>
+    <item name="encode_succeeded" type="id"/>
+    <item name="launch_product_query" type="id"/>
+    <item name="quit" type="id"/>
+    <item name="restart_preview" type="id"/>
+    <item name="return_scan_result" type="id"/>
+    <item name="search_book_contents_failed" type="id"/>
+    <item name="search_book_contents_succeeded" type="id"/>
+    <integer name="google_play_services_version">8115000</integer>
+    <string name="action_settings">Settings</string>
+    <string name="amount_hint">0.00</string>
+    <string name="app_name">LiuHePay</string>
+    <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
+    <string name="auth_google_play_services_client_google_display_name">Google</string>
+    <string name="close_trade">取消本次交易</string>
+    <string name="common_android_wear_notification_needs_update_text"><ns1:g id="app_name">%1$s</ns1:g> requires an update to the Android Wear app.</string>
+    <string name="common_android_wear_update_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run unless you update the Android Wear app.</string>
+    <string msgid="6006316683626838685" name="common_android_wear_update_title">Update Android Wear</string>
+    <string name="common_google_play_services_api_unavailable_text"><ns1:g id="app_name">%1$s</ns1:g> requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Requested by <ns1:g id="app_name">%1$s</ns1:g></string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Get Google Play services</string>
+    <string msgid="2122112764540849864" name="common_google_play_services_install_text_phone"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your phone.</string>
+    <string msgid="7351599665250191022" name="common_google_play_services_install_text_tablet"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your tablet.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_needs_enabling_title">An application requires Google Play services to be enabled.</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_notification_needs_update_title">An application requires an update for Google Play services.</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Sign in failed</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_text"><ns1:g id="app_name">%1$s</ns1:g> relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run unless you update Google Play services.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are currently updating.</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="elec_cash_main_activity">电子现金</string>
+    <string name="error_crash_exit_tip">程序异常退出</string>
+    <string name="error_delete">删除表中数据出错</string>
+    <string name="error_get_dao">获取dao出错</string>
+    <string name="error_get_qrcode">获取二维码失败</string>
+    <string name="error_insert">表中插入数据失败</string>
+    <string name="error_login">用户名或密码错误</string>
+    <string name="error_login_pwd">操作员密码不能为空</string>
+    <string name="error_login_username">操作员号不能为空</string>
+    <string name="error_pwd_length">密码输入过短</string>
+    <string name="error_query_all">查询表中所有数据出错</string>
+    <string name="error_querybyid">根据id查询表中数据出错</string>
+    <string name="error_scan_pay">扫码处理异常</string>
+    <string name="error_tip">操作有误</string>
+    <string name="error_updata">更新表中的数据出错</string>
+    <string name="exit">再按一次退出程序</string>
+    <string name="format_data">yyyy-MM-dd HH:mm:ss</string>
+    <string name="function_selection">六合钱包</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="history_query_activity">交易查询</string>
+    <string name="input_amount">请输入交易金额，以元为单位</string>
+    <string name="input_trade_amount">请输入有效的交易金额</string>
+    <string name="login_btn">登录</string>
+    <string name="login_password">密              码：</string>
+    <string name="login_username">操作员号：</string>
+    <string name="manager_main_activity">管理</string>
+    <string name="no_data">暂无数据</string>
+    <string name="not_support">暂不支持此交易</string>
+    <string name="operator_main_activity_sale">消费</string>
+    <string name="operator_manager_activity">柜员管理</string>
+    <string name="others_main_activity">其他</string>
+    <string name="others_pay">其他支付</string>
+    <string name="pay_failed">支付失败</string>
+    <string name="pay_success">支付成功</string>
+    <string name="preauth_main_activity">预授权类交易</string>
+    <string name="print_main_activity">打印</string>
+    <string name="scan_pay">扫码支付</string>
+    <string name="sign_activity">签到</string>
+    <string name="submit">确定</string>
+    <string name="system_communication_manager_activity">通讯参数设置</string>
+    <string name="system_key_manager_activity">修改密码</string>
+    <string name="system_manager_activity">系统管理</string>
+    <string name="system_other_clear_setting_activity">清除设置</string>
+    <string name="system_other_download_activity">下载</string>
+    <string name="system_other_manager_activity">其他功能</string>
+    <string name="system_other_test_activity">机具测试</string>
+    <string name="system_tmk_manager_activity">终端密钥管理</string>
+    <string name="system_trans_manager_activity">交易管理设置</string>
+    <string name="titlebar_left_btn">返回</string>
+    <string name="titlebar_right_btn">确定</string>
+    <string name="titlebar_text">标题</string>
+    <string name="trade_amount">交易金额</string>
+    <string name="username_not_allow_null">操作员号不能为空</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="dialog_theme">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>//无标题
+        <item name="android:windowBackground">@null</item>//背景
+        <item name="android:windowIsFloating">true</item>//悬浮
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+</resources>
