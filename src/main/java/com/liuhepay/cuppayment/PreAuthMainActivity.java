@@ -20,6 +20,7 @@ public class PreAuthMainActivity extends BaseActivity {
     private ListView listView;
     private GeneralImageAdapter adapter;
     private final static int PREAUTH = 0;
+    private final static int PREAUTHCOMPLETE = 1;
 
     @Override
     protected void initView() {
@@ -40,6 +41,10 @@ public class PreAuthMainActivity extends BaseActivity {
                 switch (position) {
                     case PREAUTH:
                         bundle.putInt("type", ConfigUtil.PREAUTH);
+                        ScreenSwitch.switchActivity(mContext,InputAmountActivity.class,bundle);
+                        break;
+                    case PREAUTHCOMPLETE:
+                        bundle.putInt("type", ConfigUtil.PREAUTHCOMPLETE);
                         ScreenSwitch.switchActivity(mContext,InputAmountActivity.class,bundle);
                         break;
                     default:
