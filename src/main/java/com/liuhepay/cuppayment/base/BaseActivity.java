@@ -149,7 +149,7 @@ public class BaseActivity extends Activity {
     /**
      * set rightBtnTextID content
      *
-     * @param rightBtnTextID
+     * @param rightTextId
      */
     protected void setRightBtnText(int rightTextId) {
         rightBtn.setText(getString(rightTextId));
@@ -158,7 +158,7 @@ public class BaseActivity extends Activity {
     /**
      * set rightBtnText content
      *
-     * @param rightBtnText
+     * @param rightText
      */
     protected void setRightBtnText(String rightText) {
         rightBtn.setText(rightText);
