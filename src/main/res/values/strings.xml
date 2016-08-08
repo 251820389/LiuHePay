@@ -130,6 +130,8 @@
     <string name="submit">确定</string>
     <string name="error_pwd_length">密码输入过短</string>
     <string name="close_trade">取消本次交易</string>
+    <string name="sys_trans_switch_activity">交易控制开关</string>
+    <string name="trade_switch_control_title">交易开关控制</string>
 
     <string-array name="array_system_manager_activity">
         <item>商户参数设置</item>
@@ -148,6 +150,122 @@
         <item>离线交易控制</item>
         <item>其他交易控制</item>
         <item>电子签名控制</item>
+    </string-array>
+    <string-array name="array_system_trans_switch_activity">
+        <item>传统类交易开关</item>
+        <item>电子现金类开关</item>
+        <item>电子钱包类开关</item>
+        <item>分期付款类开关</item>
+        <item>积分类交易开关</item>
+        <item>手机芯片类开关</item>
+        <item>预约类交易开关</item>
+        <item>订购类交易开关</item>
+        <item>其他类交易开关</item>
+    </string-array>
+    <!-- 传统交易 -->
+    <string-array name="array_switch">
+        <item>消费</item>
+        <item>消费撤销</item>
+        <item>退货</item>
+        <item>余额查询</item>
+        <item>预授权</item>
+        <item>预授权撤销</item>
+        <item>预授权完成请求</item>
+        <item>预授权完成通知</item>
+        <item>预授权完成撤销</item>
+        <item>离线结算</item>
+        <item>离线调整</item>
+    </string-array>
+    <!-- 电子现金类交易 -->
+    <string-array name="array_switch_elec">
+        <item>接触式电子现金消费</item>
+        <item>快速支付（非接电子现金消费）</item>
+        <item>电子现金指定账户圈存</item>
+        <item>电子现金非指定账户圈存</item>
+        <item>电子现金现金充值</item>
+        <item>电子现金现金充值撤销</item>
+        <item>电子现金脱机退货</item>
+    </string-array>
+    <!-- 电子钱包类交易 -->
+    <string-array name="array_switch_elec_wallet">
+        <item>电子钱包消费</item>
+        <item>电子钱包指定账户圈存</item>
+        <item>电子钱包非指定账户圈存</item>
+        <item>电子钱包现金充值</item>
+    </string-array>
+    <!-- 分期付款类开关 -->
+    <string-array name="array_switch_bystages">
+        <item>分期付款消费</item>
+        <item>分期付款消费撤销</item>
+    </string-array>
+    <!-- 积分类交易开关 -->
+    <string-array name="array_switch_score">
+        <item>联盟积分消费</item>
+        <item>发卡行积分消费</item>
+        <item>联盟积分消费撤销</item>
+        <item>发卡行积分消费撤销</item>
+        <item>联盟积分查询</item>
+        <item>联盟积分退货</item>
+    </string-array>
+    <!-- 手机芯片类开关 -->
+    <string-array name="array_switch_phone_chip">
+        <item>手机消费</item>
+        <item>手机消费撤销</item>
+        <item>手机退货</item>
+        <item>手机预授权</item>
+        <item>手机预授权撤销</item>
+        <item>手机余额查询</item>
+    </string-array>
+    <!-- 预约类交易开关 -->
+    <string-array name="array_switch_prepared">
+        <item>预约消费</item>
+        <item>预约消费撤销</item>
+    </string-array>
+    <!-- 订购类交易开关 -->
+    <string-array name="array_switch_order">
+        <item>订购消费</item>
+        <item>订购消费撤销</item>
+        <item>订购退货</item>
+        <item>订购预授权</item>
+        <item>订购预授权撤销</item>
+        <item>订购预授权完成请求</item>
+        <item>订购预授权完成通知</item>
+        <item>订购预授权完成撤销</item>
+    </string-array>
+    <!-- 其他交易开关 -->
+    <string-array name="array_switch_other_trade">
+        <item>磁条卡现金充值</item>
+        <item>磁条卡账户充值</item>
+    </string-array>
+    <!-- 交易输密控制 -->
+    <string-array name="array_switch_input_pwd">
+        <item>消费撤销是否输密</item>
+        <item>预授权撤销是否输密</item>
+        <item>预授权完成是否输密</item>
+        <item>预授权完成撤销是否输密</item>
+    </string-array>
+    <!-- 交易刷卡控制 -->
+    <string-array name="array_switch_swipe_card">
+        <item>消费撤销是否刷卡</item>
+        <item>预授权完成撤销是否刷卡</item>
+    </string-array>
+    <!-- 结算交易控制 -->
+    <string-array name="array_switch_settle">
+        <item>结算是否自动签退</item>
+        <item>结算是否打印明细</item>
+    </string-array>
+    <!-- 离线交易控制 -->
+    <string-array name="array_switch_offline">
+        <item>离线上送方式</item>
+        <item>离线上送次数</item>
+        <item>自动上送累计笔数</item>
+    </string-array>
+    <!-- 其他交易控制 -->
+    <string-array name="array_switch_other">
+        <item>是否输入主管密码撤销/退货类交易</item>
+        <item>是否允许手输卡号</item>
+        <item>默认刷卡交易</item>
+        <item>原限额</item>
     </string-array>
     <string-array name="array_system_communication_manager_activity">
         <item>拨号</item>

@@ -1,13 +1,5 @@
 [
     {
-        "merged": "E:\\android-studio_workspace\\LiuhePay\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\raw\\realm_properties",
-        "source": "E:\\android-studio_workspace\\LiuhePay\\LiuHePay\\src\\main\\res\\raw\\realm_properties"
-    },
-    {
-        "merged": "E:\\android-studio_workspace\\LiuhePay\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
-        "source": "E:\\android-studio_workspace\\LiuhePay\\LiuHePay\\src\\main\\res\\raw\\beep.ogg"
-    },
-    {
         "merged": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\raw\\realm_properties",
         "source": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\raw\\realm_properties"
     },

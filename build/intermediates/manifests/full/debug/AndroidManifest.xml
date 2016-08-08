@@ -38,82 +38,37 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.liuhepay.cuppayment.base.BaseActivity" >
-        </activity>
+        <activity android:name="com.liuhepay.cuppayment.base.BaseActivity" />
         <activity
             android:name="com.liuhepay.cuppayment.OperatorMainActivity"
-            android:launchMode="singleTask" >
-        </activity>
-        <activity android:name="com.liuhepay.cuppayment.InputAmountActivity" >
-        </activity>
-        <activity android:name="com.liuhepay.cuppayment.PreAuthMainActivity" >
-        </activity>
-        <activity android:name="com.liuhepay.cuppayment.PrintMainActivity" >
-        </activity>
-        <activity android:name="com.liuhepay.cuppayment.ManagerMainActivity" >
-        </activity>
-        <activity android:name="com.liuhepay.cuppayment.OthersMainActivity" >
-        </activity>
-        <activity android:name="com.liuhepay.cuppayment.ElecCashMainActivity" >
-        </activity>
-        <activity android:name="com.liuhepay.cuppayment.SignActivity" >
-        </activity>
-        <activity android:name="com.liuhepay.cuppayment.HistoryQueryActivity" >
-        </activity>
-        <activity android:name="com.liuhepay.cuppayment.OperatorManagerActivity" >
-        </activity>
+            android:launchMode="singleTask" />
+        <activity android:name="com.liuhepay.cuppayment.InputAmountActivity" />
+        <activity android:name="com.liuhepay.cuppayment.PreAuthMainActivity" />
+        <activity android:name="com.liuhepay.cuppayment.PrintMainActivity" />
+        <activity android:name="com.liuhepay.cuppayment.ManagerMainActivity" />
+        <activity android:name="com.liuhepay.cuppayment.OthersMainActivity" />
+        <activity android:name="com.liuhepay.cuppayment.ElecCashMainActivity" />
+        <activity android:name="com.liuhepay.cuppayment.SignActivity" />
+        <activity android:name="com.liuhepay.cuppayment.HistoryQueryActivity" />
+        <activity android:name="com.liuhepay.cuppayment.OperatorManagerActivity" />
         <activity
             android:name="com.liuhepay.cuppayment.sysactivity.SysMainActivity"
-            android:launchMode="singleTask" >
-        </activity>
-        <activity android:name="com.liuhepay.cuppayment.sysactivity.SysTransManagerActivity" >
-        </activity>
-        <activity android:name="com.liuhepay.cuppayment.sysactivity.SysCommunicateManagerActivity" >
-        </activity>
-        <activity android:name="com.liuhepay.cuppayment.sysactivity.SysTmkManagerActivity" >
-        </activity>
-        <activity android:name="com.liuhepay.cuppayment.sysactivity.SysKeyManagerActivity" >
-        </activity>
-        <activity android:name="com.liuhepay.cuppayment.sysactivity.SysOthersManagerActivity" >
-        </activity>
-        <activity android:name="com.liuhepay.cuppayment.sysactivity.SysDownloadManagerActivity" >
-        </activity>
-        <activity android:name="com.liuhepay.cuppayment.sysactivity.SysTestManagerActivity" >
-        </activity>
-
-        <!-- Ping++ SDK -->
-        <activity
-            android:name="com.pingplusplus.android.PaymentActivity"
-            android:configChanges="orientation|screenSize"
-            android:launchMode="singleTop"
-            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-
-        <!-- 微信支付 -->
-        <activity-alias
-            android:name="com.liuhepay.cuppayment.wxapi.WXPayEntryActivity"
-            android:exported="true"
-            android:targetActivity="com.pingplusplus.android.PaymentActivity" />
-
-        <!-- 支付宝 -->
-        <activity
-            android:name="com.alipay.sdk.app.H5PayActivity"
-            android:configChanges="orientation|keyboardHidden|navigation"
-            android:exported="false"
-            android:screenOrientation="behind" >
-        </activity>
-        <activity
-            android:name="com.alipay.sdk.auth.AuthActivity"
-            android:configChanges="orientation|keyboardHidden|navigation"
-            android:exported="false"
-            android:screenOrientation="behind" >
-        </activity>
+            android:launchMode="singleTask" />
+        <activity android:name="com.liuhepay.cuppayment.sysactivity.SysTransManagerActivity" />
+        <activity android:name="com.liuhepay.cuppayment.sysactivity.SysTransSwitchActivity" />
+        <activity android:name="com.liuhepay.cuppayment.sysactivity.SysShieldTransactionAct" />
+        <activity android:name="com.liuhepay.cuppayment.sysactivity.SysCommunicateManagerActivity" />
+        <activity android:name="com.liuhepay.cuppayment.sysactivity.SysTmkManagerActivity" />
+        <activity android:name="com.liuhepay.cuppayment.sysactivity.SysKeyManagerActivity" />
+        <activity android:name="com.liuhepay.cuppayment.sysactivity.SysOthersManagerActivity" />
+        <activity android:name="com.liuhepay.cuppayment.sysactivity.SysDownloadManagerActivity" />
+        <activity android:name="com.liuhepay.cuppayment.sysactivity.SysTestManagerActivity" />
         <activity
             android:name="com.zxing.activity.CaptureActivity"
             android:configChanges="orientation|keyboardHidden"
             android:screenOrientation="portrait"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
-            android:windowSoftInputMode="stateAlwaysHidden" >
-        </activity>
+            android:windowSoftInputMode="stateAlwaysHidden" />
         <!--
              ATTENTION: This was auto-generated to add Google Play services to your project for
              App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.

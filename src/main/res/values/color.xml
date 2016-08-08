@@ -34,4 +34,5 @@
     <color name="header">#58567D</color>
     <color name="grgray">#686868</color>
     <color name="dialog_btn">#33B5E5</color>
+    <color name="gray">#E0E0E0</color>
 </resources>
