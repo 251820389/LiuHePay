@@ -12,12 +12,12 @@
         "source": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\layout\\item_array_listview_switch_item.xml"
     },
     {
-        "merged": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_item.xml",
-        "source": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\layout\\gridview_item.xml"
-    },
-    {
         "merged": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\layout\\pwd_input_layout.xml",
         "source": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\layout\\pwd_input_layout.xml"
+    },
+    {
+        "merged": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_item.xml",
+        "source": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\layout\\gridview_item.xml"
     },
     {
         "merged": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\layout\\titlebar.xml",
