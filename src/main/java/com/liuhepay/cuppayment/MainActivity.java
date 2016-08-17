@@ -4,7 +4,6 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
-import com.liuhepay.cuppayment.R;
 import com.liuhepay.cuppayment.base.BaseActivity;
 import com.liuhepay.cuppayment.db.dao.UserDao;
 import com.liuhepay.cuppayment.sysactivity.SysMainActivity;

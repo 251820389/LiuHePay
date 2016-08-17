@@ -32,6 +32,10 @@
         "source": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\drawable-hdpi\\icon_test.png"
     },
     {
+        "merged": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_bg.9.png",
+        "source": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\drawable-hdpi\\edit_bg.9.png"
+    },
+    {
         "merged": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_small0.png",
         "source": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\drawable-hdpi\\icon_small0.png"
     },

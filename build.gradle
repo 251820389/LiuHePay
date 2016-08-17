@@ -30,4 +30,5 @@ dependencies {
     compile 'com.google.android.gms:play-services-appindexing:8.1.0'
     compile files('libs/jpos-1.8.8.jar')
     compile files('libs/jpos_ext-1.0-SNAPSHOT.jar')
+    compile 'com.android.support:recyclerview-v7:21.0.0'
 }

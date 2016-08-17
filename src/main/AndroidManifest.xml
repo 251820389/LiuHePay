@@ -63,6 +63,9 @@
         <activity android:name="com.liuhepay.cuppayment.sysactivity.SysOthersManagerActivity"></activity>
         <activity android:name="com.liuhepay.cuppayment.sysactivity.SysDownloadManagerActivity"></activity>
         <activity android:name="com.liuhepay.cuppayment.sysactivity.SysTestManagerActivity"></activity>
+        <activity android:name="com.liuhepay.cuppayment.sysactivity.SysMerInfoActivity"></activity>
+        <activity android:name="com.liuhepay.cuppayment.sysactivity.SysOfflineControlActivity"></activity>
+        <activity android:name="com.liuhepay.cuppayment.sysactivity.SysOthersActivity"></activity>
 
         <activity
             android:name="com.zxing.activity.CaptureActivity"

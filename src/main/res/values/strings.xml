@@ -132,6 +132,31 @@
     <string name="close_trade">取消本次交易</string>
     <string name="sys_trans_switch_activity">交易控制开关</string>
     <string name="trade_switch_control_title">交易开关控制</string>
+    <string name="sys_mer_info_mid">商户号：</string>
+    <string name="sys_mer_info_tid">终端号：</string>
+    <string name="sys_mer_info_firmid">厂商ID：</string>
+    <string name="sys_mer_info_activity_title">商户参数设置</string>
+    <string name="error_mid_not_allow_null">商户号不能为空</string>
+    <string name="error_tid_not_allow_null">终端号不能为空</string>
+    <string name="error_firmId_not_allow_null">厂商ID不能为空</string>
+    <string name="sys_trans_input_pwd_title">交易输密控制</string>
+    <string name="sys_trans_swipe_card_title">交易刷卡控制</string>
+    <string name="sys_settle_trans_title">结算交易控制</string>
+    <string name="sys_switch_offline_sent_way">离线上送方式</string>
+    <string name="sys_switch_settle_before">结算前</string>
+    <string name="sys_switch_offline_before">联机前</string>
+    <string name="sys_switch_offline_send_count">离线上送次数</string>
+    <string name="sys_offline_trans_title">离线交易控制</string>
+    <string name="error_offline_send_count_not_allow_null">离线上送次数不能为空</string>
+    <string name="error_auto_send_count_not_allow_null">自动上送累计笔数不能为空</string>
+    <string name="save_args_success">参数保存成功</string>
+    <string name="sys_others_input_pwd">是否输入主管密码撤销/退货类交易</string>
+    <string name="sys_others_allow_input_cardnum">是否允许手输卡号</string>
+    <string name="sys_others_default_swipe_card">默认刷卡交易</string>
+    <string name="sys_others_max_quota">退货最大限额</string>
+    <string name="sys_signature_trans_title">电子签名控制</string>
+    <string name="sys_others_trans_title">其他交易控制</string>
+    <string name="error_refund_max_quota_not_allow_null">退货限额不能为空</string>
 
     <string-array name="array_system_manager_activity">
         <item>商户参数设置</item>
@@ -266,6 +291,10 @@
         <item>是否允许手输卡号</item>
         <item>默认刷卡交易</item>
         <item>原限额</item>
+    </string-array>
+    <!-- 电子签名控制 -->
+    <string-array name="array_switch_signature">
+        <item>是否支持电子签名</item>
     </string-array>
     <string-array name="array_system_communication_manager_activity">
         <item>拨号</item>
