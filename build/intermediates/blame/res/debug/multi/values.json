@@ -761,8 +761,27 @@
                     "startLine": 244,
                     "startColumn": 4,
                     "startOffset": 7434,
+                    "endColumn": 39,
+                    "endOffset": 7469
+                },
+                "from": {
+                    "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1751,
+                        "endColumn": 39,
+                        "endOffset": 1786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 245,
+                    "startColumn": 4,
+                    "startOffset": 7474,
                     "endColumn": 60,
-                    "endOffset": 7490
+                    "endOffset": 7530
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
@@ -777,11 +796,11 @@
             },
             {
                 "to": {
-                    "startLine": 245,
+                    "startLine": 246,
                     "startColumn": 4,
-                    "startOffset": 7495,
+                    "startOffset": 7535,
                     "endColumn": 82,
-                    "endOffset": 7573
+                    "endOffset": 7613
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
@@ -796,11 +815,11 @@
             },
             {
                 "to": {
-                    "startLine": 246,
+                    "startLine": 247,
                     "startColumn": 4,
-                    "startOffset": 7578,
+                    "startOffset": 7618,
                     "endColumn": 72,
-                    "endOffset": 7646
+                    "endOffset": 7686
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
@@ -815,11 +834,11 @@
             },
             {
                 "to": {
-                    "startLine": 247,
+                    "startLine": 248,
                     "startColumn": 4,
-                    "startOffset": 7651,
+                    "startOffset": 7691,
                     "endColumn": 82,
-                    "endOffset": 7729
+                    "endOffset": 7769
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
@@ -834,11 +853,11 @@
             },
             {
                 "to": {
-                    "startLine": 248,
+                    "startLine": 249,
                     "startColumn": 4,
-                    "startOffset": 7734,
+                    "startOffset": 7774,
                     "endColumn": 82,
-                    "endOffset": 7812
+                    "endOffset": 7852
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
@@ -853,11 +872,11 @@
             },
             {
                 "to": {
-                    "startLine": 249,
+                    "startLine": 250,
                     "startColumn": 4,
-                    "startOffset": 7817,
+                    "startOffset": 7857,
                     "endColumn": 72,
-                    "endOffset": 7885
+                    "endOffset": 7925
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
@@ -872,11 +891,11 @@
             },
             {
                 "to": {
-                    "startLine": 250,
+                    "startLine": 251,
                     "startColumn": 4,
-                    "startOffset": 7890,
+                    "startOffset": 7930,
                     "endColumn": 72,
-                    "endOffset": 7958
+                    "endOffset": 7998
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
@@ -891,11 +910,11 @@
             },
             {
                 "to": {
-                    "startLine": 251,
+                    "startLine": 252,
                     "startColumn": 4,
-                    "startOffset": 7963,
+                    "startOffset": 8003,
                     "endColumn": 73,
-                    "endOffset": 8032
+                    "endOffset": 8072
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
@@ -910,11 +929,11 @@
             },
             {
                 "to": {
-                    "startLine": 252,
+                    "startLine": 253,
                     "startColumn": 4,
-                    "startOffset": 8037,
+                    "startOffset": 8077,
                     "endColumn": 72,
-                    "endOffset": 8105
+                    "endOffset": 8145
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
@@ -929,11 +948,11 @@
             },
             {
                 "to": {
-                    "startLine": 253,
+                    "startLine": 254,
                     "startColumn": 4,
-                    "startOffset": 8110,
+                    "startOffset": 8150,
                     "endColumn": 83,
-                    "endOffset": 8189
+                    "endOffset": 8229
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
@@ -948,11 +967,11 @@
             },
             {
                 "to": {
-                    "startLine": 254,
+                    "startLine": 255,
                     "startColumn": 4,
-                    "startOffset": 8194,
+                    "startOffset": 8234,
                     "endColumn": 49,
-                    "endOffset": 8239
+                    "endOffset": 8279
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
@@ -967,11 +986,11 @@
             },
             {
                 "to": {
-                    "startLine": 255,
+                    "startLine": 256,
                     "startColumn": 4,
-                    "startOffset": 8244,
+                    "startOffset": 8284,
                     "endColumn": 44,
-                    "endOffset": 8284
+                    "endOffset": 8324
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
@@ -986,11 +1005,11 @@
             },
             {
                 "to": {
-                    "startLine": 256,
+                    "startLine": 257,
                     "startColumn": 4,
-                    "startOffset": 8289,
+                    "startOffset": 8329,
                     "endColumn": 47,
-                    "endOffset": 8332
+                    "endOffset": 8372
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
@@ -1005,11 +1024,11 @@
             },
             {
                 "to": {
-                    "startLine": 257,
+                    "startLine": 258,
                     "startColumn": 4,
-                    "startOffset": 8337,
+                    "startOffset": 8377,
                     "endColumn": 38,
-                    "endOffset": 8371
+                    "endOffset": 8411
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
@@ -1024,11 +1043,11 @@
             },
             {
                 "to": {
-                    "startLine": 258,
+                    "startLine": 259,
                     "startColumn": 4,
-                    "startOffset": 8376,
+                    "startOffset": 8416,
                     "endColumn": 40,
-                    "endOffset": 8412
+                    "endOffset": 8452
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
@@ -1043,11 +1062,11 @@
             },
             {
                 "to": {
-                    "startLine": 259,
+                    "startLine": 260,
                     "startColumn": 4,
-                    "startOffset": 8417,
+                    "startOffset": 8457,
                     "endColumn": 47,
-                    "endOffset": 8460
+                    "endOffset": 8500
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
@@ -1062,11 +1081,11 @@
             },
             {
                 "to": {
-                    "startLine": 260,
+                    "startLine": 261,
                     "startColumn": 4,
-                    "startOffset": 8465,
+                    "startOffset": 8505,
                     "endColumn": 40,
-                    "endOffset": 8501
+                    "endOffset": 8541
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
@@ -1081,11 +1100,11 @@
             },
             {
                 "to": {
-                    "startLine": 261,
+                    "startLine": 262,
                     "startColumn": 4,
-                    "startOffset": 8506,
+                    "startOffset": 8546,
                     "endColumn": 52,
-                    "endOffset": 8554
+                    "endOffset": 8594
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
@@ -1100,11 +1119,11 @@
             },
             {
                 "to": {
-                    "startLine": 262,
+                    "startLine": 263,
                     "startColumn": 4,
-                    "startOffset": 8559,
+                    "startOffset": 8599,
                     "endColumn": 45,
-                    "endOffset": 8600
+                    "endOffset": 8640
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
@@ -1119,11 +1138,30 @@
             },
             {
                 "to": {
-                    "startLine": 263,
+                    "startLine": 264,
                     "startColumn": 4,
-                    "startOffset": 8605,
+                    "startOffset": 8645,
+                    "endColumn": 38,
+                    "endOffset": 8679
+                },
+                "from": {
+                    "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1792,
+                        "endColumn": 38,
+                        "endOffset": 1826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 265,
+                    "startColumn": 4,
+                    "startOffset": 8684,
                     "endColumn": 47,
-                    "endOffset": 8648
+                    "endOffset": 8727
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
@@ -1138,11 +1176,11 @@
             },
             {
                 "to": {
-                    "startLine": 264,
+                    "startLine": 266,
                     "startColumn": 4,
-                    "startOffset": 8653,
+                    "startOffset": 8732,
                     "endColumn": 58,
-                    "endOffset": 8707
+                    "endOffset": 8786
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
@@ -1157,11 +1195,11 @@
             },
             {
                 "to": {
-                    "startLine": 265,
+                    "startLine": 267,
                     "startColumn": 4,
-                    "startOffset": 8712,
+                    "startOffset": 8791,
                     "endColumn": 55,
-                    "endOffset": 8763
+                    "endOffset": 8842
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
@@ -1176,11 +1214,11 @@
             },
             {
                 "to": {
-                    "startLine": 266,
+                    "startLine": 268,
                     "startColumn": 4,
-                    "startOffset": 8768,
+                    "startOffset": 8847,
                     "endColumn": 53,
-                    "endOffset": 8817
+                    "endOffset": 8896
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
@@ -1195,11 +1233,11 @@
             },
             {
                 "to": {
-                    "startLine": 267,
+                    "startLine": 269,
                     "startColumn": 4,
-                    "startOffset": 8822,
+                    "startOffset": 8901,
                     "endColumn": 49,
-                    "endOffset": 8867
+                    "endOffset": 8946
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
@@ -1214,11 +1252,11 @@
             },
             {
                 "to": {
-                    "startLine": 268,
+                    "startLine": 270,
                     "startColumn": 4,
-                    "startOffset": 8872,
+                    "startOffset": 8951,
                     "endColumn": 47,
-                    "endOffset": 8915
+                    "endOffset": 8994
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
@@ -1233,11 +1271,11 @@
             },
             {
                 "to": {
-                    "startLine": 269,
+                    "startLine": 271,
                     "startColumn": 4,
-                    "startOffset": 8920,
+                    "startOffset": 8999,
                     "endColumn": 47,
-                    "endOffset": 8963
+                    "endOffset": 9042
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
@@ -1252,11 +1290,11 @@
             },
             {
                 "to": {
-                    "startLine": 270,
+                    "startLine": 272,
                     "startColumn": 4,
-                    "startOffset": 8968,
+                    "startOffset": 9047,
                     "endColumn": 51,
-                    "endOffset": 9015
+                    "endOffset": 9094
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
@@ -1271,11 +1309,11 @@
             },
             {
                 "to": {
-                    "startLine": 271,
+                    "startLine": 273,
                     "startColumn": 4,
-                    "startOffset": 9020,
+                    "startOffset": 9099,
                     "endColumn": 51,
-                    "endOffset": 9067
+                    "endOffset": 9146
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
@@ -1290,11 +1328,11 @@
             },
             {
                 "to": {
-                    "startLine": 272,
+                    "startLine": 274,
                     "startColumn": 4,
-                    "startOffset": 9072,
+                    "startOffset": 9151,
                     "endColumn": 51,
-                    "endOffset": 9119
+                    "endOffset": 9198
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
@@ -1309,11 +1347,11 @@
             },
             {
                 "to": {
-                    "startLine": 273,
+                    "startLine": 275,
                     "startColumn": 4,
-                    "startOffset": 9124,
+                    "startOffset": 9203,
                     "endColumn": 49,
-                    "endOffset": 9169
+                    "endOffset": 9248
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
@@ -1328,11 +1366,11 @@
             },
             {
                 "to": {
-                    "startLine": 274,
+                    "startLine": 276,
                     "startColumn": 4,
-                    "startOffset": 9174,
+                    "startOffset": 9253,
                     "endColumn": 56,
-                    "endOffset": 9226
+                    "endOffset": 9305
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
@@ -1347,11 +1385,11 @@
             },
             {
                 "to": {
-                    "startLine": 275,
+                    "startLine": 277,
                     "startColumn": 4,
-                    "startOffset": 9231,
+                    "startOffset": 9310,
                     "endColumn": 52,
-                    "endOffset": 9279
+                    "endOffset": 9358
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
@@ -1366,11 +1404,11 @@
             },
             {
                 "to": {
-                    "startLine": 276,
+                    "startLine": 278,
                     "startColumn": 4,
-                    "startOffset": 9284,
+                    "startOffset": 9363,
                     "endColumn": 46,
-                    "endOffset": 9326
+                    "endOffset": 9405
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
@@ -1385,11 +1423,11 @@
             },
             {
                 "to": {
-                    "startLine": 277,
+                    "startLine": 279,
                     "startColumn": 4,
-                    "startOffset": 9331,
+                    "startOffset": 9410,
                     "endColumn": 46,
-                    "endOffset": 9373
+                    "endOffset": 9452
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
@@ -1404,11 +1442,11 @@
             },
             {
                 "to": {
-                    "startLine": 278,
+                    "startLine": 280,
                     "startColumn": 4,
-                    "startOffset": 9378,
+                    "startOffset": 9457,
                     "endColumn": 47,
-                    "endOffset": 9421
+                    "endOffset": 9500
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
@@ -1423,11 +1461,11 @@
             },
             {
                 "to": {
-                    "startLine": 279,
+                    "startLine": 281,
                     "startColumn": 4,
-                    "startOffset": 9426,
+                    "startOffset": 9505,
                     "endColumn": 47,
-                    "endOffset": 9469
+                    "endOffset": 9548
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
@@ -1442,11 +1480,11 @@
             },
             {
                 "to": {
-                    "startLine": 280,
+                    "startLine": 282,
                     "startColumn": 4,
-                    "startOffset": 9474,
+                    "startOffset": 9553,
                     "endColumn": 44,
-                    "endOffset": 9514
+                    "endOffset": 9593
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
@@ -1461,11 +1499,11 @@
             },
             {
                 "to": {
-                    "startLine": 281,
+                    "startLine": 283,
                     "startColumn": 4,
-                    "startOffset": 9519,
+                    "startOffset": 9598,
                     "endColumn": 47,
-                    "endOffset": 9562
+                    "endOffset": 9641
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
@@ -1480,11 +1518,11 @@
             },
             {
                 "to": {
-                    "startLine": 282,
+                    "startLine": 284,
                     "startColumn": 4,
-                    "startOffset": 9567,
+                    "startOffset": 9646,
                     "endColumn": 43,
-                    "endOffset": 9606
+                    "endOffset": 9685
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
@@ -1499,11 +1537,11 @@
             },
             {
                 "to": {
-                    "startLine": 283,
+                    "startLine": 285,
                     "startColumn": 4,
-                    "startOffset": 9611,
+                    "startOffset": 9690,
                     "endColumn": 52,
-                    "endOffset": 9659
+                    "endOffset": 9738
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
@@ -1518,11 +1556,11 @@
             },
             {
                 "to": {
-                    "startLine": 284,
+                    "startLine": 286,
                     "startColumn": 4,
-                    "startOffset": 9664,
+                    "startOffset": 9743,
                     "endColumn": 52,
-                    "endOffset": 9712
+                    "endOffset": 9791
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
@@ -1537,11 +1575,11 @@
             },
             {
                 "to": {
-                    "startLine": 285,
+                    "startLine": 287,
                     "startColumn": 4,
-                    "startOffset": 9717,
+                    "startOffset": 9796,
                     "endColumn": 51,
-                    "endOffset": 9764
+                    "endOffset": 9843
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
@@ -1556,11 +1594,11 @@
             },
             {
                 "to": {
-                    "startLine": 286,
+                    "startLine": 288,
                     "startColumn": 4,
-                    "startOffset": 9769,
+                    "startOffset": 9848,
                     "endColumn": 39,
-                    "endOffset": 9804
+                    "endOffset": 9883
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\color.xml",
@@ -1575,11 +1613,11 @@
             },
             {
                 "to": {
-                    "startLine": 289,
+                    "startLine": 291,
                     "startColumn": 4,
-                    "startOffset": 10532,
+                    "startOffset": 10611,
                     "endColumn": 57,
-                    "endOffset": 10585
+                    "endOffset": 10664
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\dimens.xml",
@@ -1594,11 +1632,11 @@
             },
             {
                 "to": {
-                    "startLine": 290,
+                    "startLine": 292,
                     "startColumn": 4,
-                    "startOffset": 10590,
+                    "startOffset": 10669,
                     "endColumn": 55,
-                    "endOffset": 10641
+                    "endOffset": 10720
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\dimens.xml",
@@ -1613,11 +1651,11 @@
             },
             {
                 "to": {
-                    "startLine": 291,
+                    "startLine": 293,
                     "startColumn": 4,
-                    "startOffset": 10646,
+                    "startOffset": 10725,
                     "endColumn": 39,
-                    "endOffset": 10681
+                    "endOffset": 10760
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\ids.xml",
@@ -1632,11 +1670,11 @@
             },
             {
                 "to": {
-                    "startLine": 292,
+                    "startLine": 294,
                     "startColumn": 4,
-                    "startOffset": 10686,
+                    "startOffset": 10765,
                     "endColumn": 35,
-                    "endOffset": 10717
+                    "endOffset": 10796
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\ids.xml",
@@ -1651,11 +1689,11 @@
             },
             {
                 "to": {
-                    "startLine": 293,
+                    "startLine": 295,
                     "startColumn": 4,
-                    "startOffset": 10722,
+                    "startOffset": 10801,
                     "endColumn": 42,
-                    "endOffset": 10760
+                    "endOffset": 10839
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\ids.xml",
@@ -1670,11 +1708,11 @@
             },
             {
                 "to": {
-                    "startLine": 294,
+                    "startLine": 296,
                     "startColumn": 4,
-                    "startOffset": 10765,
+                    "startOffset": 10844,
                     "endColumn": 45,
-                    "endOffset": 10806
+                    "endOffset": 10885
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\ids.xml",
@@ -1689,11 +1727,11 @@
             },
             {
                 "to": {
-                    "startLine": 295,
+                    "startLine": 297,
                     "startColumn": 4,
-                    "startOffset": 10811,
+                    "startOffset": 10890,
                     "endColumn": 42,
-                    "endOffset": 10849
+                    "endOffset": 10928
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\ids.xml",
@@ -1708,11 +1746,11 @@
             },
             {
                 "to": {
-                    "startLine": 296,
+                    "startLine": 298,
                     "startColumn": 4,
-                    "startOffset": 10854,
+                    "startOffset": 10933,
                     "endColumn": 45,
-                    "endOffset": 10895
+                    "endOffset": 10974
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\ids.xml",
@@ -1727,11 +1765,11 @@
             },
             {
                 "to": {
-                    "startLine": 297,
+                    "startLine": 299,
                     "startColumn": 4,
-                    "startOffset": 10900,
+                    "startOffset": 10979,
                     "endColumn": 49,
-                    "endOffset": 10945
+                    "endOffset": 11024
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\ids.xml",
@@ -1746,11 +1784,11 @@
             },
             {
                 "to": {
-                    "startLine": 298,
+                    "startLine": 300,
                     "startColumn": 4,
-                    "startOffset": 10950,
+                    "startOffset": 11029,
                     "endColumn": 33,
-                    "endOffset": 10979
+                    "endOffset": 11058
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\ids.xml",
@@ -1765,11 +1803,11 @@
             },
             {
                 "to": {
-                    "startLine": 299,
+                    "startLine": 301,
                     "startColumn": 4,
-                    "startOffset": 10984,
+                    "startOffset": 11063,
                     "endColumn": 44,
-                    "endOffset": 11024
+                    "endOffset": 11103
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\ids.xml",
@@ -1784,11 +1822,11 @@
             },
             {
                 "to": {
-                    "startLine": 300,
+                    "startLine": 302,
                     "startColumn": 4,
-                    "startOffset": 11029,
+                    "startOffset": 11108,
                     "endColumn": 47,
-                    "endOffset": 11072
+                    "endOffset": 11151
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\ids.xml",
@@ -1803,11 +1841,11 @@
             },
             {
                 "to": {
-                    "startLine": 301,
+                    "startLine": 303,
                     "startColumn": 4,
-                    "startOffset": 11077,
+                    "startOffset": 11156,
                     "endColumn": 56,
-                    "endOffset": 11129
+                    "endOffset": 11208
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\ids.xml",
@@ -1822,11 +1860,11 @@
             },
             {
                 "to": {
-                    "startLine": 302,
+                    "startLine": 304,
                     "startColumn": 4,
-                    "startOffset": 11134,
+                    "startOffset": 11213,
                     "endColumn": 59,
-                    "endOffset": 11189
+                    "endOffset": 11268
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\ids.xml",
@@ -1841,11 +1879,11 @@
             },
             {
                 "to": {
-                    "startLine": 303,
+                    "startLine": 305,
                     "startColumn": 4,
-                    "startOffset": 11194,
+                    "startOffset": 11273,
                     "endColumn": 66,
-                    "endOffset": 11256
+                    "endOffset": 11335
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\version.xml",
@@ -1860,11 +1898,11 @@
             },
             {
                 "to": {
-                    "startLine": 304,
+                    "startLine": 306,
                     "startColumn": 4,
-                    "startOffset": 11261,
+                    "startOffset": 11340,
                     "endColumn": 52,
-                    "endOffset": 11309
+                    "endOffset": 11388
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -1879,11 +1917,11 @@
             },
             {
                 "to": {
-                    "startLine": 305,
+                    "startLine": 307,
                     "startColumn": 4,
-                    "startOffset": 11314,
+                    "startOffset": 11393,
                     "endColumn": 44,
-                    "endOffset": 11354
+                    "endOffset": 11433
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -1898,11 +1936,11 @@
             },
             {
                 "to": {
-                    "startLine": 306,
+                    "startLine": 308,
                     "startColumn": 4,
-                    "startOffset": 11359,
+                    "startOffset": 11438,
                     "endColumn": 45,
-                    "endOffset": 11400
+                    "endOffset": 11479
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -1917,11 +1955,11 @@
             },
             {
                 "to": {
-                    "startLine": 307,
+                    "startLine": 309,
                     "startColumn": 4,
-                    "startOffset": 11405,
+                    "startOffset": 11484,
                     "endColumn": 91,
-                    "endOffset": 11492
+                    "endOffset": 11571
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\auth_strings.xml",
@@ -1936,11 +1974,11 @@
             },
             {
                 "to": {
-                    "startLine": 308,
+                    "startLine": 310,
                     "startColumn": 4,
-                    "startOffset": 11497,
+                    "startOffset": 11576,
                     "endColumn": 87,
-                    "endOffset": 11580
+                    "endOffset": 11659
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\auth_strings.xml",
@@ -1955,11 +1993,11 @@
             },
             {
                 "to": {
-                    "startLine": 309,
+                    "startLine": 311,
                     "startColumn": 4,
-                    "startOffset": 11585,
+                    "startOffset": 11664,
                     "endColumn": 46,
-                    "endOffset": 11627
+                    "endOffset": 11706
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -1974,11 +2012,11 @@
             },
             {
                 "to": {
-                    "startLine": 310,
+                    "startLine": 312,
                     "startColumn": 4,
-                    "startOffset": 11632,
+                    "startOffset": 11711,
                     "endColumn": 156,
-                    "endOffset": 11784
+                    "endOffset": 11863
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
@@ -1993,11 +2031,11 @@
             },
             {
                 "to": {
-                    "startLine": 311,
+                    "startLine": 313,
                     "startColumn": 4,
-                    "startOffset": 11789,
+                    "startOffset": 11868,
                     "endColumn": 144,
-                    "endOffset": 11929
+                    "endOffset": 12008
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
@@ -2012,11 +2050,11 @@
             },
             {
                 "to": {
-                    "startLine": 312,
+                    "startLine": 314,
                     "startColumn": 4,
-                    "startOffset": 11934,
+                    "startOffset": 12013,
                     "endColumn": 108,
-                    "endOffset": 12038
+                    "endOffset": 12117
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
@@ -2031,11 +2069,11 @@
             },
             {
                 "to": {
-                    "startLine": 313,
+                    "startLine": 315,
                     "startColumn": 4,
-                    "startOffset": 12043,
+                    "startOffset": 12122,
                     "endColumn": 231,
-                    "endOffset": 12270
+                    "endOffset": 12349
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
@@ -2050,11 +2088,11 @@
             },
             {
                 "to": {
-                    "startLine": 314,
+                    "startLine": 316,
                     "startColumn": 4,
-                    "startOffset": 12275,
+                    "startOffset": 12354,
                     "endColumn": 125,
-                    "endOffset": 12396
+                    "endOffset": 12475
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
@@ -2069,11 +2107,11 @@
             },
             {
                 "to": {
-                    "startLine": 315,
+                    "startLine": 317,
                     "startColumn": 4,
-                    "startOffset": 12401,
+                    "startOffset": 12480,
                     "endColumn": 180,
-                    "endOffset": 12577
+                    "endOffset": 12656
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
@@ -2088,11 +2126,11 @@
             },
             {
                 "to": {
-                    "startLine": 316,
+                    "startLine": 318,
                     "startColumn": 4,
-                    "startOffset": 12582,
+                    "startOffset": 12661,
                     "endColumn": 124,
-                    "endOffset": 12702
+                    "endOffset": 12781
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
@@ -2107,11 +2145,11 @@
             },
             {
                 "to": {
-                    "startLine": 317,
+                    "startLine": 319,
                     "startColumn": 4,
-                    "startOffset": 12707,
+                    "startOffset": 12786,
                     "endColumn": 138,
-                    "endOffset": 12841
+                    "endOffset": 12920
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
@@ -2126,11 +2164,11 @@
             },
             {
                 "to": {
-                    "startLine": 318,
+                    "startLine": 320,
                     "startColumn": 4,
-                    "startOffset": 12846,
+                    "startOffset": 12925,
                     "endColumn": 123,
-                    "endOffset": 12965
+                    "endOffset": 13044
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
@@ -2145,11 +2183,11 @@
             },
             {
                 "to": {
-                    "startLine": 319,
+                    "startLine": 321,
                     "startColumn": 4,
-                    "startOffset": 12970,
+                    "startOffset": 13049,
                     "endColumn": 212,
-                    "endOffset": 13178
+                    "endOffset": 13257
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
@@ -2164,11 +2202,11 @@
             },
             {
                 "to": {
-                    "startLine": 320,
+                    "startLine": 322,
                     "startColumn": 4,
-                    "startOffset": 13183,
+                    "startOffset": 13262,
                     "endColumn": 214,
-                    "endOffset": 13393
+                    "endOffset": 13472
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
@@ -2183,11 +2221,11 @@
             },
             {
                 "to": {
-                    "startLine": 321,
+                    "startLine": 323,
                     "startColumn": 4,
-                    "startOffset": 13398,
+                    "startOffset": 13477,
                     "endColumn": 122,
-                    "endOffset": 13516
+                    "endOffset": 13595
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
@@ -2202,11 +2240,11 @@
             },
             {
                 "to": {
-                    "startLine": 322,
+                    "startLine": 324,
                     "startColumn": 4,
-                    "startOffset": 13521,
+                    "startOffset": 13600,
                     "endColumn": 164,
-                    "endOffset": 13681
+                    "endOffset": 13760
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
@@ -2221,11 +2259,11 @@
             },
             {
                 "to": {
-                    "startLine": 323,
+                    "startLine": 325,
                     "startColumn": 4,
-                    "startOffset": 13686,
+                    "startOffset": 13765,
                     "endColumn": 93,
-                    "endOffset": 13775
+                    "endOffset": 13854
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
@@ -2240,11 +2278,11 @@
             },
             {
                 "to": {
-                    "startLine": 324,
+                    "startLine": 326,
                     "startColumn": 4,
-                    "startOffset": 13780,
+                    "startOffset": 13859,
                     "endColumn": 136,
-                    "endOffset": 13912
+                    "endOffset": 13991
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
@@ -2259,11 +2297,11 @@
             },
             {
                 "to": {
-                    "startLine": 325,
+                    "startLine": 327,
                     "startColumn": 4,
-                    "startOffset": 13917,
+                    "startOffset": 13996,
                     "endColumn": 140,
-                    "endOffset": 14053
+                    "endOffset": 14132
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
@@ -2278,11 +2316,11 @@
             },
             {
                 "to": {
-                    "startLine": 326,
+                    "startLine": 328,
                     "startColumn": 4,
-                    "startOffset": 14058,
+                    "startOffset": 14137,
                     "endColumn": 89,
-                    "endOffset": 14143
+                    "endOffset": 14222
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
@@ -2297,11 +2335,11 @@
             },
             {
                 "to": {
-                    "startLine": 327,
+                    "startLine": 329,
                     "startColumn": 4,
-                    "startOffset": 14148,
+                    "startOffset": 14227,
                     "endColumn": 147,
-                    "endOffset": 14291
+                    "endOffset": 14370
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
@@ -2316,11 +2354,11 @@
             },
             {
                 "to": {
-                    "startLine": 328,
+                    "startLine": 330,
                     "startColumn": 4,
-                    "startOffset": 14296,
+                    "startOffset": 14375,
                     "endColumn": 102,
-                    "endOffset": 14394
+                    "endOffset": 14473
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
@@ -2335,11 +2373,11 @@
             },
             {
                 "to": {
-                    "startLine": 329,
+                    "startLine": 331,
                     "startColumn": 4,
-                    "startOffset": 14399,
+                    "startOffset": 14478,
                     "endColumn": 150,
-                    "endOffset": 14545
+                    "endOffset": 14624
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
@@ -2354,11 +2392,11 @@
             },
             {
                 "to": {
-                    "startLine": 330,
+                    "startLine": 332,
                     "startColumn": 4,
-                    "startOffset": 14550,
+                    "startOffset": 14629,
                     "endColumn": 91,
-                    "endOffset": 14637
+                    "endOffset": 14716
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
@@ -2373,11 +2411,11 @@
             },
             {
                 "to": {
-                    "startLine": 331,
+                    "startLine": 333,
                     "startColumn": 4,
-                    "startOffset": 14642,
+                    "startOffset": 14721,
                     "endColumn": 110,
-                    "endOffset": 14748
+                    "endOffset": 14827
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
@@ -2392,11 +2430,11 @@
             },
             {
                 "to": {
-                    "startLine": 332,
+                    "startLine": 334,
                     "startColumn": 4,
-                    "startOffset": 14753,
+                    "startOffset": 14832,
                     "endColumn": 218,
-                    "endOffset": 14967
+                    "endOffset": 15046
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
@@ -2411,11 +2449,11 @@
             },
             {
                 "to": {
-                    "startLine": 333,
+                    "startLine": 335,
                     "startColumn": 4,
-                    "startOffset": 14972,
+                    "startOffset": 15051,
                     "endColumn": 94,
-                    "endOffset": 15062
+                    "endOffset": 15141
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
@@ -2430,11 +2468,11 @@
             },
             {
                 "to": {
-                    "startLine": 334,
+                    "startLine": 336,
                     "startColumn": 4,
-                    "startOffset": 15067,
+                    "startOffset": 15146,
                     "endColumn": 104,
-                    "endOffset": 15167
+                    "endOffset": 15246
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
@@ -2449,11 +2487,11 @@
             },
             {
                 "to": {
-                    "startLine": 335,
+                    "startLine": 337,
                     "startColumn": 4,
-                    "startOffset": 15172,
+                    "startOffset": 15251,
                     "endColumn": 180,
-                    "endOffset": 15348
+                    "endOffset": 15427
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
@@ -2468,11 +2506,11 @@
             },
             {
                 "to": {
-                    "startLine": 336,
+                    "startLine": 338,
                     "startColumn": 4,
-                    "startOffset": 15353,
+                    "startOffset": 15432,
                     "endColumn": 124,
-                    "endOffset": 15473
+                    "endOffset": 15552
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
@@ -2487,11 +2525,11 @@
             },
             {
                 "to": {
-                    "startLine": 337,
+                    "startLine": 339,
                     "startColumn": 4,
-                    "startOffset": 15478,
+                    "startOffset": 15557,
                     "endColumn": 174,
-                    "endOffset": 15648
+                    "endOffset": 15727
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
@@ -2506,11 +2544,11 @@
             },
             {
                 "to": {
-                    "startLine": 338,
+                    "startLine": 340,
                     "startColumn": 4,
-                    "startOffset": 15653,
+                    "startOffset": 15732,
                     "endColumn": 104,
-                    "endOffset": 15753
+                    "endOffset": 15832
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
@@ -2525,11 +2563,11 @@
             },
             {
                 "to": {
-                    "startLine": 339,
+                    "startLine": 341,
                     "startColumn": 4,
-                    "startOffset": 15758,
+                    "startOffset": 15837,
                     "endColumn": 62,
-                    "endOffset": 15816
+                    "endOffset": 15895
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
@@ -2544,11 +2582,11 @@
             },
             {
                 "to": {
-                    "startLine": 340,
+                    "startLine": 342,
                     "startColumn": 4,
-                    "startOffset": 15821,
+                    "startOffset": 15900,
                     "endColumn": 56,
-                    "endOffset": 15873
+                    "endOffset": 15952
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -2563,11 +2601,11 @@
             },
             {
                 "to": {
-                    "startLine": 341,
+                    "startLine": 343,
                     "startColumn": 4,
-                    "startOffset": 15878,
+                    "startOffset": 15957,
                     "endColumn": 77,
-                    "endOffset": 15951
+                    "endOffset": 16030
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -2582,11 +2620,11 @@
             },
             {
                 "to": {
-                    "startLine": 342,
+                    "startLine": 344,
                     "startColumn": 4,
-                    "startOffset": 15956,
+                    "startOffset": 16035,
                     "endColumn": 55,
-                    "endOffset": 16007
+                    "endOffset": 16086
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -2601,11 +2639,11 @@
             },
             {
                 "to": {
-                    "startLine": 343,
+                    "startLine": 345,
                     "startColumn": 4,
-                    "startOffset": 16012,
+                    "startOffset": 16091,
                     "endColumn": 49,
-                    "endOffset": 16057
+                    "endOffset": 16136
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -2620,11 +2658,11 @@
             },
             {
                 "to": {
-                    "startLine": 344,
+                    "startLine": 346,
                     "startColumn": 4,
-                    "startOffset": 16062,
+                    "startOffset": 16141,
                     "endColumn": 64,
-                    "endOffset": 16122
+                    "endOffset": 16201
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -2639,11 +2677,11 @@
             },
             {
                 "to": {
-                    "startLine": 345,
+                    "startLine": 347,
                     "startColumn": 4,
-                    "startOffset": 16127,
+                    "startOffset": 16206,
                     "endColumn": 49,
-                    "endOffset": 16172
+                    "endOffset": 16251
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -2658,11 +2696,11 @@
             },
             {
                 "to": {
-                    "startLine": 346,
+                    "startLine": 348,
                     "startColumn": 4,
-                    "startOffset": 16177,
+                    "startOffset": 16256,
                     "endColumn": 52,
-                    "endOffset": 16225
+                    "endOffset": 16304
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -2677,11 +2715,11 @@
             },
             {
                 "to": {
-                    "startLine": 347,
+                    "startLine": 349,
                     "startColumn": 4,
-                    "startOffset": 16230,
+                    "startOffset": 16309,
                     "endColumn": 49,
-                    "endOffset": 16275
+                    "endOffset": 16354
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -2696,11 +2734,11 @@
             },
             {
                 "to": {
-                    "startLine": 348,
+                    "startLine": 350,
                     "startColumn": 4,
-                    "startOffset": 16280,
+                    "startOffset": 16359,
                     "endColumn": 48,
-                    "endOffset": 16324
+                    "endOffset": 16403
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -2715,11 +2753,11 @@
             },
             {
                 "to": {
-                    "startLine": 349,
+                    "startLine": 351,
                     "startColumn": 4,
-                    "startOffset": 16329,
+                    "startOffset": 16408,
                     "endColumn": 53,
-                    "endOffset": 16378
+                    "endOffset": 16457
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -2734,11 +2772,11 @@
             },
             {
                 "to": {
-                    "startLine": 350,
+                    "startLine": 352,
                     "startColumn": 4,
-                    "startOffset": 16383,
+                    "startOffset": 16462,
                     "endColumn": 57,
-                    "endOffset": 16436
+                    "endOffset": 16515
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -2753,11 +2791,11 @@
             },
             {
                 "to": {
-                    "startLine": 351,
+                    "startLine": 353,
                     "startColumn": 4,
-                    "startOffset": 16441,
+                    "startOffset": 16520,
                     "endColumn": 60,
-                    "endOffset": 16497
+                    "endOffset": 16576
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -2772,11 +2810,11 @@
             },
             {
                 "to": {
-                    "startLine": 352,
+                    "startLine": 354,
                     "startColumn": 4,
-                    "startOffset": 16502,
+                    "startOffset": 16581,
                     "endColumn": 78,
-                    "endOffset": 16576
+                    "endOffset": 16655
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -2791,11 +2829,11 @@
             },
             {
                 "to": {
-                    "startLine": 353,
+                    "startLine": 355,
                     "startColumn": 4,
-                    "startOffset": 16581,
+                    "startOffset": 16660,
                     "endColumn": 51,
-                    "endOffset": 16628
+                    "endOffset": 16707
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -2810,11 +2848,11 @@
             },
             {
                 "to": {
-                    "startLine": 354,
+                    "startLine": 356,
                     "startColumn": 4,
-                    "startOffset": 16633,
+                    "startOffset": 16712,
                     "endColumn": 54,
-                    "endOffset": 16683
+                    "endOffset": 16762
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -2829,11 +2867,11 @@
             },
             {
                 "to": {
-                    "startLine": 355,
+                    "startLine": 357,
                     "startColumn": 4,
-                    "startOffset": 16688,
+                    "startOffset": 16767,
                     "endColumn": 56,
-                    "endOffset": 16740
+                    "endOffset": 16819
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -2848,11 +2886,11 @@
             },
             {
                 "to": {
-                    "startLine": 356,
+                    "startLine": 358,
                     "startColumn": 4,
-                    "startOffset": 16745,
+                    "startOffset": 16824,
                     "endColumn": 74,
-                    "endOffset": 16815
+                    "endOffset": 16894
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -2867,11 +2905,11 @@
             },
             {
                 "to": {
-                    "startLine": 357,
+                    "startLine": 359,
                     "startColumn": 4,
-                    "startOffset": 16820,
+                    "startOffset": 16899,
                     "endColumn": 49,
-                    "endOffset": 16865
+                    "endOffset": 16944
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -2886,11 +2924,11 @@
             },
             {
                 "to": {
-                    "startLine": 358,
+                    "startLine": 360,
                     "startColumn": 4,
-                    "startOffset": 16870,
+                    "startOffset": 16949,
                     "endColumn": 60,
-                    "endOffset": 16926
+                    "endOffset": 17005
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -2905,11 +2943,11 @@
             },
             {
                 "to": {
-                    "startLine": 359,
+                    "startLine": 361,
                     "startColumn": 4,
-                    "startOffset": 16931,
+                    "startOffset": 17010,
                     "endColumn": 42,
-                    "endOffset": 16969
+                    "endOffset": 17048
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -2924,11 +2962,11 @@
             },
             {
                 "to": {
-                    "startLine": 360,
+                    "startLine": 362,
                     "startColumn": 4,
-                    "startOffset": 16974,
+                    "startOffset": 17053,
                     "endColumn": 50,
-                    "endOffset": 17020
+                    "endOffset": 17099
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -2943,11 +2981,11 @@
             },
             {
                 "to": {
-                    "startLine": 361,
+                    "startLine": 363,
                     "startColumn": 4,
-                    "startOffset": 17025,
+                    "startOffset": 17104,
                     "endColumn": 41,
-                    "endOffset": 17062
+                    "endOffset": 17141
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -2962,11 +3000,11 @@
             },
             {
                 "to": {
-                    "startLine": 362,
+                    "startLine": 364,
                     "startColumn": 4,
-                    "startOffset": 17067,
+                    "startOffset": 17146,
                     "endColumn": 59,
-                    "endOffset": 17122
+                    "endOffset": 17201
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -2981,11 +3019,11 @@
             },
             {
                 "to": {
-                    "startLine": 363,
+                    "startLine": 365,
                     "startColumn": 4,
-                    "startOffset": 17127,
+                    "startOffset": 17206,
                     "endColumn": 51,
-                    "endOffset": 17174
+                    "endOffset": 17253
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3000,11 +3038,11 @@
             },
             {
                 "to": {
-                    "startLine": 364,
+                    "startLine": 366,
                     "startColumn": 4,
-                    "startOffset": 17179,
+                    "startOffset": 17258,
                     "endColumn": 52,
-                    "endOffset": 17227
+                    "endOffset": 17306
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3019,11 +3057,11 @@
             },
             {
                 "to": {
-                    "startLine": 365,
+                    "startLine": 367,
                     "startColumn": 4,
-                    "startOffset": 17232,
+                    "startOffset": 17311,
                     "endColumn": 55,
-                    "endOffset": 17283
+                    "endOffset": 17362
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3038,11 +3076,11 @@
             },
             {
                 "to": {
-                    "startLine": 366,
+                    "startLine": 368,
                     "startColumn": 4,
-                    "startOffset": 17288,
+                    "startOffset": 17367,
                     "endColumn": 54,
-                    "endOffset": 17338
+                    "endOffset": 17417
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3057,11 +3095,11 @@
             },
             {
                 "to": {
-                    "startLine": 367,
+                    "startLine": 369,
                     "startColumn": 4,
-                    "startOffset": 17343,
+                    "startOffset": 17422,
                     "endColumn": 57,
-                    "endOffset": 17396
+                    "endOffset": 17475
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3076,11 +3114,11 @@
             },
             {
                 "to": {
-                    "startLine": 368,
+                    "startLine": 370,
                     "startColumn": 4,
-                    "startOffset": 17401,
+                    "startOffset": 17480,
                     "endColumn": 40,
-                    "endOffset": 17437
+                    "endOffset": 17516
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3095,11 +3133,11 @@
             },
             {
                 "to": {
-                    "startLine": 369,
+                    "startLine": 371,
                     "startColumn": 4,
-                    "startOffset": 17442,
+                    "startOffset": 17521,
                     "endColumn": 60,
-                    "endOffset": 17498
+                    "endOffset": 17577
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3114,11 +3152,11 @@
             },
             {
                 "to": {
-                    "startLine": 370,
+                    "startLine": 372,
                     "startColumn": 4,
-                    "startOffset": 17503,
+                    "startOffset": 17582,
                     "endColumn": 48,
-                    "endOffset": 17547
+                    "endOffset": 17626
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3133,11 +3171,11 @@
             },
             {
                 "to": {
-                    "startLine": 371,
+                    "startLine": 373,
                     "startColumn": 4,
-                    "startOffset": 17552,
+                    "startOffset": 17631,
                     "endColumn": 52,
-                    "endOffset": 17600
+                    "endOffset": 17679
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3152,11 +3190,11 @@
             },
             {
                 "to": {
-                    "startLine": 372,
+                    "startLine": 374,
                     "startColumn": 4,
-                    "startOffset": 17605,
+                    "startOffset": 17684,
                     "endColumn": 40,
-                    "endOffset": 17641
+                    "endOffset": 17720
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3171,11 +3209,11 @@
             },
             {
                 "to": {
-                    "startLine": 373,
+                    "startLine": 375,
                     "startColumn": 4,
-                    "startOffset": 17646,
+                    "startOffset": 17725,
                     "endColumn": 47,
-                    "endOffset": 17689
+                    "endOffset": 17768
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3190,11 +3228,11 @@
             },
             {
                 "to": {
-                    "startLine": 374,
+                    "startLine": 376,
                     "startColumn": 4,
-                    "startOffset": 17694,
+                    "startOffset": 17773,
                     "endColumn": 58,
-                    "endOffset": 17748
+                    "endOffset": 17827
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3209,11 +3247,11 @@
             },
             {
                 "to": {
-                    "startLine": 375,
+                    "startLine": 377,
                     "startColumn": 4,
-                    "startOffset": 17753,
+                    "startOffset": 17832,
                     "endColumn": 58,
-                    "endOffset": 17807
+                    "endOffset": 17886
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3228,11 +3266,11 @@
             },
             {
                 "to": {
-                    "startLine": 376,
+                    "startLine": 378,
                     "startColumn": 4,
-                    "startOffset": 17812,
+                    "startOffset": 17891,
                     "endColumn": 51,
-                    "endOffset": 17859
+                    "endOffset": 17938
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3247,11 +3285,11 @@
             },
             {
                 "to": {
-                    "startLine": 377,
+                    "startLine": 379,
                     "startColumn": 4,
-                    "startOffset": 17864,
+                    "startOffset": 17943,
                     "endColumn": 43,
-                    "endOffset": 17903
+                    "endOffset": 17982
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3266,11 +3304,11 @@
             },
             {
                 "to": {
-                    "startLine": 378,
+                    "startLine": 380,
                     "startColumn": 4,
-                    "startOffset": 17908,
+                    "startOffset": 17987,
                     "endColumn": 43,
-                    "endOffset": 17947
+                    "endOffset": 18026
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3285,11 +3323,11 @@
             },
             {
                 "to": {
-                    "startLine": 379,
+                    "startLine": 381,
                     "startColumn": 4,
-                    "startOffset": 17952,
+                    "startOffset": 18031,
                     "endColumn": 44,
-                    "endOffset": 17992
+                    "endOffset": 18071
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3304,11 +3342,11 @@
             },
             {
                 "to": {
-                    "startLine": 380,
+                    "startLine": 382,
                     "startColumn": 4,
-                    "startOffset": 17997,
+                    "startOffset": 18076,
                     "endColumn": 56,
-                    "endOffset": 18049
+                    "endOffset": 18128
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3323,11 +3361,11 @@
             },
             {
                 "to": {
-                    "startLine": 381,
+                    "startLine": 383,
                     "startColumn": 4,
-                    "startOffset": 18054,
+                    "startOffset": 18133,
                     "endColumn": 50,
-                    "endOffset": 18100
+                    "endOffset": 18179
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3342,11 +3380,11 @@
             },
             {
                 "to": {
-                    "startLine": 382,
+                    "startLine": 384,
                     "startColumn": 4,
-                    "startOffset": 18105,
+                    "startOffset": 18184,
                     "endColumn": 52,
-                    "endOffset": 18153
+                    "endOffset": 18232
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3361,11 +3399,11 @@
             },
             {
                 "to": {
-                    "startLine": 383,
+                    "startLine": 385,
                     "startColumn": 4,
-                    "startOffset": 18158,
+                    "startOffset": 18237,
                     "endColumn": 41,
-                    "endOffset": 18195
+                    "endOffset": 18274
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3380,11 +3418,11 @@
             },
             {
                 "to": {
-                    "startLine": 384,
+                    "startLine": 386,
                     "startColumn": 4,
-                    "startOffset": 18200,
+                    "startOffset": 18279,
                     "endColumn": 44,
-                    "endOffset": 18240
+                    "endOffset": 18319
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3399,11 +3437,11 @@
             },
             {
                 "to": {
-                    "startLine": 385,
+                    "startLine": 387,
                     "startColumn": 4,
-                    "startOffset": 18245,
+                    "startOffset": 18324,
                     "endColumn": 37,
-                    "endOffset": 18278
+                    "endOffset": 18357
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3418,11 +3456,11 @@
             },
             {
                 "to": {
-                    "startLine": 386,
+                    "startLine": 388,
                     "startColumn": 4,
-                    "startOffset": 18283,
+                    "startOffset": 18362,
                     "endColumn": 62,
-                    "endOffset": 18341
+                    "endOffset": 18420
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3437,11 +3475,11 @@
             },
             {
                 "to": {
-                    "startLine": 387,
+                    "startLine": 389,
                     "startColumn": 4,
-                    "startOffset": 18346,
+                    "startOffset": 18425,
                     "endColumn": 53,
-                    "endOffset": 18395
+                    "endOffset": 18474
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3456,11 +3494,11 @@
             },
             {
                 "to": {
-                    "startLine": 388,
+                    "startLine": 390,
                     "startColumn": 4,
-                    "startOffset": 18400,
+                    "startOffset": 18479,
                     "endColumn": 49,
-                    "endOffset": 18445
+                    "endOffset": 18524
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3475,11 +3513,11 @@
             },
             {
                 "to": {
-                    "startLine": 389,
+                    "startLine": 391,
                     "startColumn": 4,
-                    "startOffset": 18450,
+                    "startOffset": 18529,
                     "endColumn": 49,
-                    "endOffset": 18495
+                    "endOffset": 18574
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3494,11 +3532,11 @@
             },
             {
                 "to": {
-                    "startLine": 390,
+                    "startLine": 392,
                     "startColumn": 4,
-                    "startOffset": 18500,
+                    "startOffset": 18579,
                     "endColumn": 58,
-                    "endOffset": 18554
+                    "endOffset": 18633
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3513,11 +3551,11 @@
             },
             {
                 "to": {
-                    "startLine": 391,
+                    "startLine": 393,
                     "startColumn": 4,
-                    "startOffset": 18559,
+                    "startOffset": 18638,
                     "endColumn": 67,
-                    "endOffset": 18622
+                    "endOffset": 18701
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3532,11 +3570,11 @@
             },
             {
                 "to": {
-                    "startLine": 392,
+                    "startLine": 394,
                     "startColumn": 4,
-                    "startOffset": 18627,
+                    "startOffset": 18706,
                     "endColumn": 64,
-                    "endOffset": 18687
+                    "endOffset": 18766
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3551,11 +3589,11 @@
             },
             {
                 "to": {
-                    "startLine": 393,
+                    "startLine": 395,
                     "startColumn": 4,
-                    "startOffset": 18692,
+                    "startOffset": 18771,
                     "endColumn": 65,
-                    "endOffset": 18753
+                    "endOffset": 18832
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3570,11 +3608,11 @@
             },
             {
                 "to": {
-                    "startLine": 394,
+                    "startLine": 396,
                     "startColumn": 4,
-                    "startOffset": 18758,
+                    "startOffset": 18837,
                     "endColumn": 55,
-                    "endOffset": 18809
+                    "endOffset": 18888
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3589,11 +3627,11 @@
             },
             {
                 "to": {
-                    "startLine": 395,
+                    "startLine": 397,
                     "startColumn": 4,
-                    "startOffset": 18814,
+                    "startOffset": 18893,
                     "endColumn": 57,
-                    "endOffset": 18867
+                    "endOffset": 18946
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3608,11 +3646,11 @@
             },
             {
                 "to": {
-                    "startLine": 396,
+                    "startLine": 398,
                     "startColumn": 4,
-                    "startOffset": 18872,
+                    "startOffset": 18951,
                     "endColumn": 57,
-                    "endOffset": 18925
+                    "endOffset": 19004
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3627,11 +3665,11 @@
             },
             {
                 "to": {
-                    "startLine": 397,
+                    "startLine": 399,
                     "startColumn": 4,
-                    "startOffset": 18930,
+                    "startOffset": 19009,
                     "endColumn": 60,
-                    "endOffset": 18986
+                    "endOffset": 19065
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3646,11 +3684,11 @@
             },
             {
                 "to": {
-                    "startLine": 398,
+                    "startLine": 400,
                     "startColumn": 4,
-                    "startOffset": 18991,
+                    "startOffset": 19070,
                     "endColumn": 57,
-                    "endOffset": 19044
+                    "endOffset": 19123
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3665,11 +3703,11 @@
             },
             {
                 "to": {
-                    "startLine": 399,
+                    "startLine": 401,
                     "startColumn": 4,
-                    "startOffset": 19049,
+                    "startOffset": 19128,
                     "endColumn": 64,
-                    "endOffset": 19109
+                    "endOffset": 19188
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3684,11 +3722,11 @@
             },
             {
                 "to": {
-                    "startLine": 400,
+                    "startLine": 402,
                     "startColumn": 4,
-                    "startOffset": 19114,
+                    "startOffset": 19193,
                     "endColumn": 62,
-                    "endOffset": 19172
+                    "endOffset": 19251
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3703,11 +3741,11 @@
             },
             {
                 "to": {
-                    "startLine": 401,
+                    "startLine": 403,
                     "startColumn": 4,
-                    "startOffset": 19177,
+                    "startOffset": 19256,
                     "endColumn": 56,
-                    "endOffset": 19229
+                    "endOffset": 19308
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3722,11 +3760,11 @@
             },
             {
                 "to": {
-                    "startLine": 402,
+                    "startLine": 404,
                     "startColumn": 4,
-                    "startOffset": 19234,
+                    "startOffset": 19313,
                     "endColumn": 60,
-                    "endOffset": 19290
+                    "endOffset": 19369
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3741,11 +3779,11 @@
             },
             {
                 "to": {
-                    "startLine": 403,
+                    "startLine": 405,
                     "startColumn": 4,
-                    "startOffset": 19295,
+                    "startOffset": 19374,
                     "endColumn": 61,
-                    "endOffset": 19352
+                    "endOffset": 19431
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3760,11 +3798,11 @@
             },
             {
                 "to": {
-                    "startLine": 404,
+                    "startLine": 406,
                     "startColumn": 4,
-                    "startOffset": 19357,
+                    "startOffset": 19436,
                     "endColumn": 60,
-                    "endOffset": 19413
+                    "endOffset": 19492
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3779,11 +3817,11 @@
             },
             {
                 "to": {
-                    "startLine": 405,
+                    "startLine": 407,
                     "startColumn": 4,
-                    "startOffset": 19418,
+                    "startOffset": 19497,
                     "endColumn": 72,
-                    "endOffset": 19486
+                    "endOffset": 19565
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3798,11 +3836,11 @@
             },
             {
                 "to": {
-                    "startLine": 406,
+                    "startLine": 408,
                     "startColumn": 4,
-                    "startOffset": 19491,
+                    "startOffset": 19570,
                     "endColumn": 60,
-                    "endOffset": 19547
+                    "endOffset": 19626
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3817,11 +3855,11 @@
             },
             {
                 "to": {
-                    "startLine": 407,
+                    "startLine": 409,
                     "startColumn": 4,
-                    "startOffset": 19552,
+                    "startOffset": 19631,
                     "endColumn": 56,
-                    "endOffset": 19604
+                    "endOffset": 19683
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3836,11 +3874,11 @@
             },
             {
                 "to": {
-                    "startLine": 408,
+                    "startLine": 410,
                     "startColumn": 4,
-                    "startOffset": 19609,
+                    "startOffset": 19688,
                     "endColumn": 68,
-                    "endOffset": 19673
+                    "endOffset": 19752
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3855,11 +3893,11 @@
             },
             {
                 "to": {
-                    "startLine": 409,
+                    "startLine": 411,
                     "startColumn": 4,
-                    "startOffset": 19678,
+                    "startOffset": 19757,
                     "endColumn": 61,
-                    "endOffset": 19735
+                    "endOffset": 19814
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3874,11 +3912,11 @@
             },
             {
                 "to": {
-                    "startLine": 410,
+                    "startLine": 412,
                     "startColumn": 4,
-                    "startOffset": 19740,
+                    "startOffset": 19819,
                     "endColumn": 62,
-                    "endOffset": 19798
+                    "endOffset": 19877
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3893,11 +3931,11 @@
             },
             {
                 "to": {
-                    "startLine": 411,
+                    "startLine": 413,
                     "startColumn": 4,
-                    "startOffset": 19803,
+                    "startOffset": 19882,
                     "endColumn": 59,
-                    "endOffset": 19858
+                    "endOffset": 19937
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3912,11 +3950,11 @@
             },
             {
                 "to": {
-                    "startLine": 412,
+                    "startLine": 414,
                     "startColumn": 4,
-                    "startOffset": 19863,
+                    "startOffset": 19942,
                     "endColumn": 62,
-                    "endOffset": 19921
+                    "endOffset": 20000
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3931,11 +3969,11 @@
             },
             {
                 "to": {
-                    "startLine": 413,
+                    "startLine": 415,
                     "startColumn": 4,
-                    "startOffset": 19926,
+                    "startOffset": 20005,
                     "endColumn": 64,
-                    "endOffset": 19986
+                    "endOffset": 20065
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3950,11 +3988,11 @@
             },
             {
                 "to": {
-                    "startLine": 414,
+                    "startLine": 416,
                     "startColumn": 4,
-                    "startOffset": 19991,
+                    "startOffset": 20070,
                     "endColumn": 48,
-                    "endOffset": 20035
+                    "endOffset": 20114
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3969,11 +4007,11 @@
             },
             {
                 "to": {
-                    "startLine": 415,
+                    "startLine": 417,
                     "startColumn": 4,
-                    "startOffset": 20040,
+                    "startOffset": 20119,
                     "endColumn": 49,
-                    "endOffset": 20085
+                    "endOffset": 20164
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -3988,11 +4026,11 @@
             },
             {
                 "to": {
-                    "startLine": 416,
+                    "startLine": 418,
                     "startColumn": 4,
-                    "startOffset": 20090,
+                    "startOffset": 20169,
                     "endColumn": 44,
-                    "endOffset": 20130
+                    "endOffset": 20209
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -4007,11 +4045,11 @@
             },
             {
                 "to": {
-                    "startLine": 417,
+                    "startLine": 419,
                     "startColumn": 4,
-                    "startOffset": 20135,
+                    "startOffset": 20214,
                     "endColumn": 45,
-                    "endOffset": 20176
+                    "endOffset": 20255
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -4026,11 +4064,11 @@
             },
             {
                 "to": {
-                    "startLine": 418,
+                    "startLine": 420,
                     "startColumn": 4,
-                    "startOffset": 20181,
+                    "startOffset": 20260,
                     "endColumn": 61,
-                    "endOffset": 20238
+                    "endOffset": 20317
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -4045,11 +4083,11 @@
             },
             {
                 "to": {
-                    "startLine": 419,
+                    "startLine": 421,
                     "startColumn": 4,
-                    "startOffset": 20243,
+                    "startOffset": 20322,
                     "endColumn": 60,
-                    "endOffset": 20299
+                    "endOffset": 20378
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\strings.xml",
@@ -4064,12 +4102,12 @@
             },
             {
                 "to": {
-                    "startLine": 420,
+                    "startLine": 422,
                     "startColumn": 4,
-                    "startOffset": 20304,
-                    "endLine": 426,
+                    "startOffset": 20383,
+                    "endLine": 428,
                     "endColumn": 12,
-                    "endOffset": 20590
+                    "endOffset": 20669
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\styles.xml",
@@ -4085,12 +4123,12 @@
             },
             {
                 "to": {
-                    "startLine": 427,
+                    "startLine": 429,
                     "startColumn": 4,
-                    "startOffset": 20595,
-                    "endLine": 429,
+                    "startOffset": 20674,
+                    "endLine": 431,
                     "endColumn": 12,
-                    "endOffset": 20750
+                    "endOffset": 20829
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\styles.xml",
@@ -4106,12 +4144,12 @@
             },
             {
                 "to": {
-                    "startLine": 430,
+                    "startLine": 432,
                     "startColumn": 4,
-                    "startOffset": 20755,
-                    "endLine": 436,
+                    "startOffset": 20834,
+                    "endLine": 438,
                     "endColumn": 12,
-                    "endOffset": 21097
+                    "endOffset": 21176
                 },
                 "from": {
                     "file": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\values\\styles.xml",

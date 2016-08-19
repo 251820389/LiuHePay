@@ -242,6 +242,7 @@
         <item>其他类交易开关</item>
     </string-array>
     <color name="bg_color">#EDEDED</color>
+    <color name="black">#000000</color>
     <color name="common_action_bar_splitter">#d2d2d2</color>
     <color name="common_signin_btn_dark_text_default">@android:color/white</color>
     <color name="common_signin_btn_dark_text_disabled">#FFAAAAAA</color>
@@ -261,6 +262,7 @@
     <color name="header">#58567D</color>
     <color name="help_button_view">#ffcccccc</color>
     <color name="help_view">#ff404040</color>
+    <color name="icon">#6ECFF5</color>
     <color name="listview_item">#E0E0E0</color>
     <color name="possible_result_points">#c0ffff00</color>
     <color name="result_image_border">#ffffffff</color>
@@ -361,7 +363,7 @@
     <string name="error_updata">更新表中的数据出错</string>
     <string name="exit">再按一次退出程序</string>
     <string name="format_data">yyyy-MM-dd HH:mm:ss</string>
-    <string name="function_selection">六合钱包</string>
+    <string name="function_selection">中国银联</string>
     <string name="hello_world">Hello world!</string>
     <string name="history_query_activity">交易查询</string>
     <string name="input_amount">请输入交易金额，以元为单位</string>

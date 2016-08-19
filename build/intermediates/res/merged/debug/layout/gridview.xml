@@ -11,6 +11,7 @@
 
     <GridView
         android:id="@+id/gridview"
+        android:listSelector="@android:color/white"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="1dp"

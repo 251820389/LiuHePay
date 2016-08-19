@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:background="@xml/gridview_item_selector"
-    android:gravity="center" >
+    android:layout_height="100dp"
+    android:background="@drawable/gridview_item_bg_normal"
+    android:orientation="vertical">
+    <!--android:background="@xml/gridview_item_selector"-->
 
     <ImageView
         android:id="@+id/iv_item"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
-        android:layout_margin="5dp"
-        android:background="@drawable/icon_test" />
+        android:layout_margin="10dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/icon_big0" />
 
     <TextView
         android:id="@+id/tv_item"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/iv_item"
-        android:layout_centerHorizontal="true"
-        android:layout_margin="5dp" />
+        android:textColor="@xml/text_color_sel"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="10dp"
+        android:text="测试"/>
 
-</RelativeLayout>
+</LinearLayout>

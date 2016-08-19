@@ -1,18 +1,70 @@
 [
     {
+        "merged": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\xml\\icon_sel8.xml",
+        "source": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\xml\\icon_sel8.xml"
+    },
+    {
+        "merged": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\xml\\icon_sel5.xml",
+        "source": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\xml\\icon_sel5.xml"
+    },
+    {
         "merged": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\xml\\selector_listview.xml",
         "source": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\xml\\selector_listview.xml"
+    },
+    {
+        "merged": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\xml\\icon_sel2.xml",
+        "source": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\xml\\icon_sel2.xml"
+    },
+    {
+        "merged": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\xml\\icon_sel9.xml",
+        "source": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\xml\\icon_sel9.xml"
+    },
+    {
+        "merged": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\xml\\icon_sel7.xml",
+        "source": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\xml\\icon_sel7.xml"
+    },
+    {
+        "merged": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\xml\\icon_sel1.xml",
+        "source": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\xml\\icon_sel1.xml"
+    },
+    {
+        "merged": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\xml\\icon_sel11.xml",
+        "source": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\xml\\icon_sel11.xml"
+    },
+    {
+        "merged": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\xml\\icon_sel4.xml",
+        "source": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\xml\\icon_sel4.xml"
     },
     {
         "merged": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\xml\\gridview_item_selector.xml",
         "source": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\xml\\gridview_item_selector.xml"
     },
     {
+        "merged": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\xml\\icon_sel3.xml",
+        "source": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\xml\\icon_sel3.xml"
+    },
+    {
+        "merged": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\xml\\icon_sel6.xml",
+        "source": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\xml\\icon_sel6.xml"
+    },
+    {
         "merged": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\xml\\btn_blue_selector.xml",
         "source": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\xml\\btn_blue_selector.xml"
     },
     {
+        "merged": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\xml\\text_color_sel.xml",
+        "source": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\xml\\text_color_sel.xml"
+    },
+    {
         "merged": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\xml\\listview_item_selector.xml",
         "source": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\xml\\listview_item_selector.xml"
+    },
+    {
+        "merged": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\xml\\icon_sel10.xml",
+        "source": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\xml\\icon_sel10.xml"
+    },
+    {
+        "merged": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\xml\\icon_sel0.xml",
+        "source": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\xml\\icon_sel0.xml"
     }
 ]
