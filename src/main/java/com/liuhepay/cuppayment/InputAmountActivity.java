@@ -50,13 +50,13 @@ public class InputAmountActivity extends BaseActivity{
 
     public void onClick(View view) {
         moneyNum = input_amount.getText().toString();
-        moneyNum = ConfigUtil.covertPoint(moneyNum);
-        if (moneyNum.length() == 3) {
-            moneyNum = moneyNum + "0";
-        }
         if (moneyNum == null || moneyNum.equals("") || moneyNum.equals("0.0") || moneyNum.equals("0.00")) {
             ToastUtil.showToast(mContext, R.string.input_trade_amount);
             return;
+        }
+        moneyNum = ConfigUtil.covertPoint(moneyNum);
+        if (moneyNum.length() == 3) {
+            moneyNum = moneyNum + "0";
         }
         wxMoneyNum = Double.parseDouble(moneyNum) * 100 + "";
         wxMoneyNum = wxMoneyNum.substring(0, wxMoneyNum.indexOf("."));

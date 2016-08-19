@@ -12,7 +12,7 @@
         android:layout_alignParentLeft="true"
         android:layout_centerVertical="true"
         android:layout_margin="5dp"
-        android:textColor="@color/text_color"
+        android:textColor="@color/white"
         android:onClick="onClick"
         android:textSize="18sp" />
 
@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
         android:text="@string/titlebar_text"
-        android:textColor="@color/text_color"
+        android:textColor="@color/white"
         android:textSize="24sp" />
 
     <TextView
@@ -32,14 +32,8 @@
         android:layout_alignParentRight="true"
         android:layout_centerVertical="true"
         android:layout_margin="5dp"
-        android:textColor="@color/text_color"
+        android:textColor="@color/white"
         android:onClick="onClick"
         android:textSize="18sp" />
-
-    <View
-        android:layout_width="match_parent"
-        android:layout_height="1dp"
-        android:layout_alignParentBottom="true"
-        android:background="@color/view_line" />
 
 </RelativeLayout>

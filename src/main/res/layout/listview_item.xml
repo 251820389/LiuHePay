@@ -3,9 +3,10 @@
     android:layout_width="fill_parent"
     android:layout_height="wrap_content"
     android:gravity="center_vertical"
-    android:background="@xml/selector_listview"
-    android:padding="10dp" 
+    android:background="@drawable/gridview_item_bg_normal"
+    android:padding="10dp"
     android:orientation="horizontal">
+    <!--android:background="@xml/selector_listview"-->
 
     <ImageView
         android:id="@+id/iv_item"
@@ -19,7 +20,8 @@
         android:id="@+id/tv_item"
         android:textSize="20sp"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" 
+        android:layout_height="wrap_content"
+        android:textColor="@xml/text_color_sel"
         android:text="23"/>
 
 </LinearLayout>

@@ -14,7 +14,7 @@
     <string name="login_btn">登录</string>
     <string name="username_not_allow_null">操作员号不能为空</string>
     <string name="exit">再按一次退出程序</string>
-    <string name="function_selection">六合钱包</string>
+    <string name="function_selection">中国银联</string>
     <string name="others_pay">其他支付</string>
     <string name="trade_amount">交易金额</string>
     <string name="scan_pay">扫码支付</string>

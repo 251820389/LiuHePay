@@ -1,6 +1,7 @@
 package com.liuhepay.cuppayment.adapter;
 
 import android.content.Context;
+import android.graphics.Color;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
@@ -29,7 +30,6 @@ public class GeneralImageAdapter extends ArrayAdapter<Object>
 		mDrawablename = drawablename;
 //		this.flag = flag;
 	}
-
 	@Override
 	public View getView(int position, View convertView, ViewGroup parent)
 	{
@@ -46,12 +46,12 @@ public class GeneralImageAdapter extends ArrayAdapter<Object>
 		{
 			viewHolder = (ViewHolder) convertView.getTag();
 		}
-		int ret = GetResourceId.getDrawableId(mContext,mDrawablename + position);
-		if (ret == 0)
+		int id = GetResourceId.getXmlId(mContext, mDrawablename + position);
+		if (id == 0)
 		{
-				ret = R.drawable.icon_small0;
+			id = R.xml.icon_sel0;
 		}
-		viewHolder.mImageView.setBackgroundResource(ret);
+		viewHolder.mImageView.setBackgroundResource(id);
 		viewHolder.mTextView.setText((String) getItem(position));
 		return convertView;
 	}

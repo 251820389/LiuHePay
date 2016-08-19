@@ -1,14 +1,10 @@
 package com.liuhepay.cuppayment;
 
-import android.app.AlertDialog;
-import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
-import android.os.Message;
 import android.view.KeyEvent;
 import android.view.View;
-import android.view.View.OnClickListener;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.GridView;
@@ -16,8 +12,8 @@ import android.widget.GridView;
 import com.liuhepay.cuppayment.adapter.GeneralImageAdapter;
 import com.liuhepay.cuppayment.base.BaseActivity;
 import com.liuhepay.cuppayment.util.ConfigUtil;
+import com.liuhepay.cuppayment.util.MyLog;
 import com.liuhepay.cuppayment.util.ScreenSwitch;
-import com.liuhepay.cuppayment.util.ToastUtil;
 
 public class OperatorMainActivity extends BaseActivity {
     private static final int WXSACN = 0;
@@ -38,13 +34,13 @@ public class OperatorMainActivity extends BaseActivity {
     @Override
     protected void initView() {
         super.initView();
-        // showTitleSpinner();
         addContentView(R.layout.gridview);
         setTitleText(R.string.function_selection);
         gridView = (GridView) findViewById(R.id.gridview);
-        adapter = new GeneralImageAdapter(mContext, R.layout.gridview_item, "icon_big", true);
+        adapter = new GeneralImageAdapter(mContext, R.layout.gridview_item, "icon_sel", true);
         adapter.addAll((Object[]) getResources().getStringArray(R.array.array_operator_main_activity));
         gridView.setAdapter(adapter);
+
         gridView.setOnItemClickListener(new OnItemClickListener() {
 
             @Override
@@ -60,7 +56,7 @@ public class OperatorMainActivity extends BaseActivity {
                         break;
                     case SALE:
                         bundle.putInt("type", ConfigUtil.SALE);
-                        ScreenSwitch.switchActivity(mContext, InputAmountActivity.class,bundle);
+                        ScreenSwitch.switchActivity(mContext, InputAmountActivity.class, bundle);
                         break;
                     case REFUND:
                         break;

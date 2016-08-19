@@ -38,4 +38,9 @@ public class GetResourceId {
 		return paramContext.getResources().getIdentifier(paramString, "array",
 				paramContext.getPackageName());
 	}
+
+	public static int getXmlId(Context paramContext, String paramString) {
+		return paramContext.getResources().getIdentifier(paramString, "xml",
+				paramContext.getPackageName());
+	}
 }
