@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\android-studio_workspace\WorkSpace\LiuHePay\src\main\AndroidManifest.xml:2:1-83:12
+ADDED from E:\android-studio_workspace\WorkSpace\LiuHePay\src\main\AndroidManifest.xml:2:1-85:12
 	package
 		ADDED from E:\android-studio_workspace\WorkSpace\LiuHePay\src\main\AndroidManifest.xml:3:5-38
 		INJECTED from E:\android-studio_workspace\WorkSpace\LiuHePay\src\main\AndroidManifest.xml
@@ -76,7 +76,7 @@ MERGED from [com.android.support:support-v4:23.4.0] E:\android-studio_workspace\
 		INJECTED from E:\android-studio_workspace\WorkSpace\LiuHePay\src\main\AndroidManifest.xml
 		INJECTED from E:\android-studio_workspace\WorkSpace\LiuHePay\src\main\AndroidManifest.xml
 application
-ADDED from E:\android-studio_workspace\WorkSpace\LiuHePay\src\main\AndroidManifest.xml:26:5-81:19
+ADDED from E:\android-studio_workspace\WorkSpace\LiuHePay\src\main\AndroidManifest.xml:26:5-83:19
 MERGED from [com.android.support:support-v4:23.4.0] E:\android-studio_workspace\WorkSpace\LiuHePay\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] E:\android-studio_workspace\WorkSpace\LiuHePay\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:19:5-20
 MERGED from [com.google.android.gms:play-services-basement:8.1.0] E:\android-studio_workspace\WorkSpace\LiuHePay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
@@ -209,25 +209,29 @@ activity#com.liuhepay.cuppayment.sysactivity.SysOthersActivity
 ADDED from E:\android-studio_workspace\WorkSpace\LiuHePay\src\main\AndroidManifest.xml:68:9-99
 	android:name
 		ADDED from E:\android-studio_workspace\WorkSpace\LiuHePay\src\main\AndroidManifest.xml:68:19-87
-activity#com.zxing.activity.CaptureActivity
-ADDED from E:\android-studio_workspace\WorkSpace\LiuHePay\src\main\AndroidManifest.xml:70:9-75:72
-	android:screenOrientation
-		ADDED from E:\android-studio_workspace\WorkSpace\LiuHePay\src\main\AndroidManifest.xml:73:13-49
-	android:windowSoftInputMode
-		ADDED from E:\android-studio_workspace\WorkSpace\LiuHePay\src\main\AndroidManifest.xml:75:13-60
-	android:configChanges
-		ADDED from E:\android-studio_workspace\WorkSpace\LiuHePay\src\main\AndroidManifest.xml:72:13-63
-	android:theme
-		ADDED from E:\android-studio_workspace\WorkSpace\LiuHePay\src\main\AndroidManifest.xml:74:13-71
+activity#com.liuhepay.cuppayment.manageractivity.ManagerActivity
+ADDED from E:\android-studio_workspace\WorkSpace\LiuHePay\src\main\AndroidManifest.xml:70:9-101
 	android:name
-		ADDED from E:\android-studio_workspace\WorkSpace\LiuHePay\src\main\AndroidManifest.xml:71:13-62
+		ADDED from E:\android-studio_workspace\WorkSpace\LiuHePay\src\main\AndroidManifest.xml:70:19-89
+activity#com.zxing.activity.CaptureActivity
+ADDED from E:\android-studio_workspace\WorkSpace\LiuHePay\src\main\AndroidManifest.xml:72:9-77:72
+	android:screenOrientation
+		ADDED from E:\android-studio_workspace\WorkSpace\LiuHePay\src\main\AndroidManifest.xml:75:13-49
+	android:windowSoftInputMode
+		ADDED from E:\android-studio_workspace\WorkSpace\LiuHePay\src\main\AndroidManifest.xml:77:13-60
+	android:configChanges
+		ADDED from E:\android-studio_workspace\WorkSpace\LiuHePay\src\main\AndroidManifest.xml:74:13-63
+	android:theme
+		ADDED from E:\android-studio_workspace\WorkSpace\LiuHePay\src\main\AndroidManifest.xml:76:13-71
+	android:name
+		ADDED from E:\android-studio_workspace\WorkSpace\LiuHePay\src\main\AndroidManifest.xml:73:13-62
 meta-data#com.google.android.gms.version
-ADDED from E:\android-studio_workspace\WorkSpace\LiuHePay\src\main\AndroidManifest.xml:78:9-80:69
+ADDED from E:\android-studio_workspace\WorkSpace\LiuHePay\src\main\AndroidManifest.xml:80:9-82:69
 MERGED from [com.google.android.gms:play-services-basement:8.1.0] E:\android-studio_workspace\WorkSpace\LiuHePay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
 	android:value
-		ADDED from E:\android-studio_workspace\WorkSpace\LiuHePay\src\main\AndroidManifest.xml:80:13-66
+		ADDED from E:\android-studio_workspace\WorkSpace\LiuHePay\src\main\AndroidManifest.xml:82:13-66
 	android:name
-		ADDED from E:\android-studio_workspace\WorkSpace\LiuHePay\src\main\AndroidManifest.xml:79:13-58
+		ADDED from E:\android-studio_workspace\WorkSpace\LiuHePay\src\main\AndroidManifest.xml:81:13-58
 activity#android.support.v7.widget.TestActivity
 ADDED from [com.android.support:recyclerview-v7:21.0.0] E:\android-studio_workspace\WorkSpace\LiuHePay\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.0\AndroidManifest.xml:18:9-115
 	android:label

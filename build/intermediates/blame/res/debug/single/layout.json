@@ -28,12 +28,12 @@
         "source": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\layout\\titlebar.xml"
     },
     {
-        "merged": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item.xml",
-        "source": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\layout\\listview_item.xml"
-    },
-    {
         "merged": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\layout\\camera.xml",
         "source": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\layout\\camera.xml"
+    },
+    {
+        "merged": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item.xml",
+        "source": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\src\\main\\res\\layout\\listview_item.xml"
     },
     {
         "merged": "E:\\android-studio_workspace\\WorkSpace\\LiuHePay\\build\\intermediates\\res\\merged\\debug\\layout\\amount_input_layout.xml",

@@ -67,6 +67,8 @@
         <activity android:name="com.liuhepay.cuppayment.sysactivity.SysOfflineControlActivity"></activity>
         <activity android:name="com.liuhepay.cuppayment.sysactivity.SysOthersActivity"></activity>
 
+        <activity android:name="com.liuhepay.cuppayment.manageractivity.ManagerActivity"></activity>
+
         <activity
             android:name="com.zxing.activity.CaptureActivity"
             android:configChanges="orientation|keyboardHidden"

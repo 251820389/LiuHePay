@@ -21,6 +21,13 @@ public class GeneralImageAdapter extends ArrayAdapter<Object>
 	private String	mDrawablename;
 //	private boolean	flag;			//true为gridview false为listview
 
+	/**
+	 *
+	 * @param context
+	 * @param resource item布局文件
+	 * @param drawablename 反射图片名称
+	 * @param flag 类型listview 或 gridview
+	 */
 	public GeneralImageAdapter(Context context, int resource, String drawablename, boolean flag)
 	{
 

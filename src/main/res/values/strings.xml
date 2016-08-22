@@ -345,4 +345,14 @@
         <item>回响测试</item>
     </string-array>
 
+
+    <string name="manager_activity_title">商户管理员</string>
+
+    <string-array name="array_manager_activity">
+        <item>主管改密</item>
+        <item>增加</item>
+        <item>删除</item>
+        <item>查询</item>
+        <item>操作员改密</item>
+    </string-array>
 </resources>

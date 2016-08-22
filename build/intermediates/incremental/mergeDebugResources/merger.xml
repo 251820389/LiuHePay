@@ -41,7 +41,13 @@
         <item>查询交易明细</item>
         <item>查询交易汇总</item>
         <item>按凭证号查询</item>
-    </string-array><string name="exit">再按一次退出程序</string><string name="system_communication_manager_activity">通讯参数设置</string><string name="sys_mer_info_firmid">厂商ID：</string><string name="system_manager_activity">系统管理</string><string name="error_delete">删除表中数据出错</string><string name="error_scan_pay">扫码处理异常</string><string-array name="array_system_tmk_manager_activity">
+    </string-array><string name="exit">再按一次退出程序</string><string name="system_communication_manager_activity">通讯参数设置</string><string name="sys_mer_info_firmid">厂商ID：</string><string name="system_manager_activity">系统管理</string><string-array name="array_manager_activity">
+        <item>主管改密</item>
+        <item>增加</item>
+        <item>删除</item>
+        <item>查询</item>
+        <item>操作员改密</item>
+    </string-array><string name="error_delete">删除表中数据出错</string><string name="error_scan_pay">扫码处理异常</string><string-array name="array_system_tmk_manager_activity">
         <item>联机导入密钥</item>
         <item>手工输入密钥</item>
         <item>母POS导入密钥</item>
@@ -104,7 +110,7 @@
         <item>预授权完成撤销</item>
         <item>离线结算</item>
         <item>离线调整</item>
-    </string-array><string-array name="array_switch_signature">
+    </string-array><string name="manager_activity_title">商户管理员</string><string-array name="array_switch_signature">
         <item>是否支持电子签名</item>
     </string-array><string name="sys_switch_settle_before">结算前</string><string name="hello_world">Hello world!</string><string name="sys_switch_offline_before">联机前</string><string name="app_name">LiuHePay</string><string name="error_refund_max_quota_not_allow_null">退货限额不能为空</string><string name="no_data">暂无数据</string><string name="error_query_all">查询表中所有数据出错</string><string-array name="array_switch_offline">
         <item>离线上送方式</item>

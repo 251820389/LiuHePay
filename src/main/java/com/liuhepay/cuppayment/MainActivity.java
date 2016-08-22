@@ -6,6 +6,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import com.liuhepay.cuppayment.base.BaseActivity;
 import com.liuhepay.cuppayment.db.dao.UserDao;
+import com.liuhepay.cuppayment.manageractivity.ManagerActivity;
 import com.liuhepay.cuppayment.sysactivity.SysMainActivity;
 import com.liuhepay.cuppayment.util.ScreenSwitch;
 import com.liuhepay.cuppayment.util.ToastUtil;
@@ -47,6 +48,7 @@ public class MainActivity extends BaseActivity {
 				ScreenSwitch.switchActivity(mContext, SysMainActivity.class);
 			} else if("00".equals(name)){
 				//TODO 主管操作员界面
+				ScreenSwitch.switchActivity(mContext, ManagerActivity.class);
 			}else{
 				ScreenSwitch.switchActivity(mContext, OperatorMainActivity.class);
 			}
