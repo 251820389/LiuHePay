@@ -41,6 +41,7 @@ public class MainActivity extends BaseActivity {
 			return;
 		}
 		Log.i(TAG, "name = " + name);
+
 		//TODO 用户名密码校验
 		UserDao mDao = new UserDao();
 		if(mDao.userLogin(name,pwd)){

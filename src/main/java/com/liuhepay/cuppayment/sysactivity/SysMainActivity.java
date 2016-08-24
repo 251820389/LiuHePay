@@ -29,7 +29,7 @@ public class SysMainActivity extends BaseActivity {
         setTitleText(R.string.system_manager_activity);
         gridView = (GridView) findViewById(R.id.gridview);
         adapter = new GeneralImageAdapter(mContext, R.layout.gridview_item,
-                "icon_big", true);
+                "icon_system_sel", true);
         adapter.addAll((Object[]) getResources().getStringArray(
                 R.array.array_system_manager_activity));
         gridView.setAdapter(adapter);
